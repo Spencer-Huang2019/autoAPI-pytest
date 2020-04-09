@@ -1,0 +1,201 @@
+[ {
+  "uid" : "db727c7a48e5048e",
+  "name" : "test[9.0-length of userName exceeds-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spenwrwrwerwrerwweecer\",\"password\":\"123456\"}-{\"status\":\"fail\",\"errorCode\":4,\"msg\":\"Length of userName exceeds\"}]",
+  "time" : {
+    "start" : 1586148471067,
+    "stop" : 1586148473078,
+    "duration" : 2011
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8acfc2441664fed",
+  "name" : "test[3.0-userName=\"\"-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"\",\"password\":\"123456\"}-{\"status\":\"fail\",\"errorCode\":2,\"msg\":\"UserName missing\"}]",
+  "time" : {
+    "start" : 1586148458927,
+    "stop" : 1586148460939,
+    "duration" : 2012
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea75e226da5b76da",
+  "name" : "test[6.0-password=NULL-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spencer\",\"password\":null}-{\"status\":\"fail\",\"errorCode\":3,\"msg\":\"Password missing\"}]",
+  "time" : {
+    "start" : 1586148464991,
+    "stop" : 1586148467011,
+    "duration" : 2020
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1ab35505af0e460",
+  "name" : "test_login[4.0-user is disabled-http://localhost:8899/spencer/api/login-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"Alex zhao\",\"password\":\"123456\"}-{\"status\":\"fail\",\"errorCode\":4,\"msg\":\"User is disabled\"}]",
+  "time" : {
+    "start" : 1586148440580,
+    "stop" : 1586148442615,
+    "duration" : 2035
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4a37cc43c11ed02",
+  "name" : "test_login[10.0-userName=NULL & password=NULL-http://localhost:8899/spencer/api/login-POST-{\"content-type\":\"application/json\"}-{\"userName\":null,\"password\":null}-{\"status\":\"fail\",\"errorCode\":2,\"msg\":\"UserName missing\"}]",
+  "time" : {
+    "start" : 1586148452731,
+    "stop" : 1586148454743,
+    "duration" : 2012
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41b961c212ce7e0b",
+  "name" : "test_login[3.0-incorrect password-http://localhost:8899/spencer/api/login-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spencer\",\"password\":\"123409\"}-{\"status\":\"fail\",\"errorCode\":1,\"msg\":\"Incorrect password or non-exist userName\"}]",
+  "time" : {
+    "start" : 1586148438543,
+    "stop" : 1586148440570,
+    "duration" : 2027
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab0d207dca514f26",
+  "name" : "test[1.0-success to register-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"Kelly Ren\",\"password\":\"123456\"}-{\"status\":\"success\",\"errorCode\":0,\"msg\":\"Succeed to register\"}]",
+  "time" : {
+    "start" : 1586148454751,
+    "stop" : 1586148456776,
+    "duration" : 2025
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "40a7175c56353b61",
+  "name" : "test[4.0-password=\"\"-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spencer\",\"password\":\"\"}-{\"status\":\"fail\",\"errorCode\":3,\"msg\":\"Password missing\"}]",
+  "time" : {
+    "start" : 1586148460948,
+    "stop" : 1586148462959,
+    "duration" : 2011
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53503d456021127c",
+  "name" : "test[2.0-user exist-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spencer\",\"password\":\"123456\"}-{\"status\":\"fail\",\"errorCode\":1,\"msg\":\"User exist\"}]",
+  "time" : {
+    "start" : 1586148456891,
+    "stop" : 1586148458918,
+    "duration" : 2027
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af1eaeeafeecf4b0",
+  "name" : "test[10.0-length of password exceeds-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spencer\",\"password\":\"12343243243243ssss56\"}-{\"status\":\"fail\",\"errorCode\":5,\"msg\":\"Length of password exceeds\"}]",
+  "time" : {
+    "start" : 1586148473089,
+    "stop" : 1586148475102,
+    "duration" : 2013
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de40e75fbb13f251",
+  "name" : "test[5.0-userName=NULL-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":null,\"password\":\"123456\"}-{\"status\":\"fail\",\"errorCode\":2,\"msg\":\"UserName missing\"}]",
+  "time" : {
+    "start" : 1586148462969,
+    "stop" : 1586148464981,
+    "duration" : 2012
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0d47d7d427582f",
+  "name" : "test_login[1.0-success to register-http://localhost:8899/spencer/api/login-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spencer\",\"password\":\"123456\"}-{\"status\":\"success\",\"errorCode\":0,\"msg\":\"Succeed to login\"}]",
+  "time" : {
+    "start" : 1586148434441,
+    "stop" : 1586148436483,
+    "duration" : 2042
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5c7cee62c823b69",
+  "name" : "test[8.0-userName=NULL & password=NULL-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":null,\"password\":null}-{\"status\":\"fail\",\"errorCode\":2,\"msg\":\"UserName missing\"}]",
+  "time" : {
+    "start" : 1586148469044,
+    "stop" : 1586148471058,
+    "duration" : 2014
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ea8703b4e7c260e",
+  "name" : "test_login[2.0-user doesn't exist-http://localhost:8899/spencer/api/login-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spenc\",\"password\":\"123456\"}-{\"status\":\"fail\",\"errorCode\":1,\"msg\":\"Incorrect password or non-exist userName\"}]",
+  "time" : {
+    "start" : 1586148436499,
+    "stop" : 1586148438527,
+    "duration" : 2028
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e104afb0f833ce5",
+  "name" : "test_login[5.0-userName=\"\"-http://localhost:8899/spencer/api/login-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"\",\"password\":\"123456\"}-{\"status\":\"fail\",\"errorCode\":2,\"msg\":\"UserName missing\"}]",
+  "time" : {
+    "start" : 1586148442625,
+    "stop" : 1586148444634,
+    "duration" : 2009
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb532c91730f9808",
+  "name" : "test_login[6.0-password=\"\"-http://localhost:8899/spencer/api/login-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spencer\",\"password\":\"\"}-{\"status\":\"fail\",\"errorCode\":3,\"msg\":\"Password missing\"}]",
+  "time" : {
+    "start" : 1586148444642,
+    "stop" : 1586148446653,
+    "duration" : 2011
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9b67644f69dfc35",
+  "name" : "test_login[7.0-userName=NULL-http://localhost:8899/spencer/api/login-POST-{\"content-type\":\"application/json\"}-{\"userName\":null,\"password\":\"123456\"}-{\"status\":\"fail\",\"errorCode\":2,\"msg\":\"UserName missing\"}]",
+  "time" : {
+    "start" : 1586148446663,
+    "stop" : 1586148448674,
+    "duration" : 2011
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "482bbef8a8ab7367",
+  "name" : "test_login[9.0-userName=\"\" & password = \"\"-http://localhost:8899/spencer/api/login-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"\",\"password\":\"\"}-{\"status\":\"fail\",\"errorCode\":2,\"msg\":\"UserName missing\"}]",
+  "time" : {
+    "start" : 1586148450705,
+    "stop" : 1586148452721,
+    "duration" : 2016
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0fd4b819adedd89",
+  "name" : "test[7.0-userName=\"\" & password = \"\"-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"\",\"password\":\"\"}-{\"status\":\"fail\",\"errorCode\":2,\"msg\":\"UserName missing\"}]",
+  "time" : {
+    "start" : 1586148467019,
+    "stop" : 1586148469034,
+    "duration" : 2015
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d17d1a4dfdb9f27",
+  "name" : "test_login[8.0-password=NULL-http://localhost:8899/spencer/api/login-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spencer\",\"password\":null}-{\"status\":\"fail\",\"errorCode\":3,\"msg\":\"Password missing\"}]",
+  "time" : {
+    "start" : 1586148448683,
+    "stop" : 1586148450695,
+    "duration" : 2012
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

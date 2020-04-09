@@ -1,0 +1,102 @@
+{
+  "uid" : "c5c7cee62c823b69",
+  "name" : "test[8.0-userName=NULL & password=NULL-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":null,\"password\":null}-{\"status\":\"fail\",\"errorCode\":2,\"msg\":\"UserName missing\"}]",
+  "fullName" : "case.test_Reg.TestRegister#test",
+  "historyId" : "30f5fb3294a1cda2fdf4dec9822db3fc",
+  "time" : {
+    "start" : 1586148469044,
+    "stop" : 1586148471058,
+    "duration" : 2014
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dde1b4bfee6c5f7f",
+      "name" : "Response",
+      "source" : "dde1b4bfee6c5f7f.attach",
+      "type" : "text/plain",
+      "size" : 61
+    }, {
+      "uid" : "a0fb961dc1119d5b",
+      "name" : "log",
+      "source" : "a0fb961dc1119d5b.txt",
+      "type" : "text/plain",
+      "size" : 502
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Test register api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_Reg"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KAVVNMT"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_Reg"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "desc",
+    "value" : "'userName=NULL & password=NULL'"
+  }, {
+    "name" : "expected",
+    "value" : "'{\"status\":\"fail\",\"errorCode\":2,\"msg\":\"UserName missing\"}'"
+  }, {
+    "name" : "headers",
+    "value" : "'{\"content-type\":\"application/json\"}'"
+  }, {
+    "name" : "id",
+    "value" : "8.0"
+  }, {
+    "name" : "method",
+    "value" : "'POST'"
+  }, {
+    "name" : "payload",
+    "value" : "'{\"userName\":null,\"password\":null}'"
+  }, {
+    "name" : "url",
+    "value" : "'http://localhost:8899/spencer/api/register'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5c7cee62c823b69.json",
+  "parameterValues" : [ "'userName=NULL & password=NULL'", "'{\"status\":\"fail\",\"errorCode\":2,\"msg\":\"UserName missing\"}'", "'{\"content-type\":\"application/json\"}'", "8.0", "'POST'", "'{\"userName\":null,\"password\":null}'", "'http://localhost:8899/spencer/api/register'" ]
+}

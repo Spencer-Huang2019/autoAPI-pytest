@@ -1,0 +1,2 @@
+[32mINFO    [0m root:logUtils.py:22 Request url:http://localhost:8899/spencer/api/login SUCCESS!
+[32mINFO    [0m root:logUtils.py:22 TC1 success to register: statusCode: 200 resBody:{'errorCode': 0, 'msg': 'Succeed to login', 'status': 'success'}

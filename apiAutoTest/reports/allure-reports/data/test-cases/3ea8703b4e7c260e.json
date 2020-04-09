@@ -1,0 +1,102 @@
+{
+  "uid" : "3ea8703b4e7c260e",
+  "name" : "test_login[2.0-user doesn't exist-http://localhost:8899/spencer/api/login-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spenc\",\"password\":\"123456\"}-{\"status\":\"fail\",\"errorCode\":1,\"msg\":\"Incorrect password or non-exist userName\"}]",
+  "fullName" : "case.test_Login.Test_Login#test_login",
+  "historyId" : "c1e62574bde21aa751aa91fc42df2c2f",
+  "time" : {
+    "start" : 1586148436499,
+    "stop" : 1586148438527,
+    "duration" : 2028
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "240256c2d4b4280f",
+      "name" : "Response",
+      "source" : "240256c2d4b4280f.attach",
+      "type" : "text/plain",
+      "size" : 85
+    }, {
+      "uid" : "1035d4b079f49696",
+      "name" : "log",
+      "source" : "1035d4b079f49696.txt",
+      "type" : "text/plain",
+      "size" : 509
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Test login api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_Login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KAVVNMT"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "desc",
+    "value" : "'user doesn't exist'"
+  }, {
+    "name" : "expected",
+    "value" : "'{\"status\":\"fail\",\"errorCode\":1,\"msg\":\"Incorrect password or non-exist userName\"}'"
+  }, {
+    "name" : "headers",
+    "value" : "'{\"content-type\":\"application/json\"}'"
+  }, {
+    "name" : "id",
+    "value" : "2.0"
+  }, {
+    "name" : "method",
+    "value" : "'POST'"
+  }, {
+    "name" : "payload",
+    "value" : "'{\"userName\":\"spenc\",\"password\":\"123456\"}'"
+  }, {
+    "name" : "url",
+    "value" : "'http://localhost:8899/spencer/api/login'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ea8703b4e7c260e.json",
+  "parameterValues" : [ "'user doesn't exist'", "'{\"status\":\"fail\",\"errorCode\":1,\"msg\":\"Incorrect password or non-exist userName\"}'", "'{\"content-type\":\"application/json\"}'", "2.0", "'POST'", "'{\"userName\":\"spenc\",\"password\":\"123456\"}'", "'http://localhost:8899/spencer/api/login'" ]
+}

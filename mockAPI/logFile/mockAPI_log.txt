@@ -1,0 +1,1134 @@
+2020-04-01 13:11:04,522 INFO userName = spencer password = 123456
+2020-04-01 13:11:04,599 INFO namelist = ('spencer',)
+2020-04-01 13:11:04,600 ERROR Technical error
+2020-04-01 13:14:07,184 INFO request json_data = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 13:14:07,185 INFO userName = spencer password = 123456
+2020-04-01 13:14:07,217 INFO namelist = ('spencer',)
+2020-04-01 13:14:07,218 ERROR Technical error
+2020-04-01 13:17:35,254 INFO request json_data = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 13:17:35,255 INFO type(userName) = <class 'str'>
+2020-04-01 13:17:35,255 INFO userName = spencer password = 123456
+2020-04-01 13:17:35,278 INFO namelist = ('spencer',)
+2020-04-01 13:17:35,279 ERROR Technical error
+2020-04-01 13:21:05,824 INFO request json_data = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 13:21:05,824 INFO userName = spencer password = 123456
+2020-04-01 13:21:05,856 INFO namelist = ('spencer',)
+2020-04-01 13:21:05,856 INFO insert = insert into login_user(name, password, status) values(spencer,123456,'ACTIVE')
+2020-04-01 13:21:05,857 ERROR Technical error
+2020-04-01 13:22:42,019 INFO request json_data = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 13:22:42,019 INFO userName = spencer password = 123456
+2020-04-01 13:22:42,045 INFO namelist = ('spencer',)
+2020-04-01 13:22:42,045 INFO userName in namelist
+2020-04-01 13:22:42,046 INFO insert = insert into login_user(name, password, status) values('spencer','123456','ACTIVE')
+2020-04-01 13:22:42,046 ERROR Technical error
+2020-04-01 13:23:37,261 INFO request json_data = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 13:23:37,261 INFO userName = spencer password = 123456
+2020-04-01 13:23:37,286 INFO namelist = ('spencer',)
+2020-04-01 13:23:37,287 INFO insert = insert into login_user(name, password, status) values('spencer','123456','ACTIVE')
+2020-04-01 13:23:37,288 ERROR Technical error
+2020-04-01 13:24:04,616 INFO request json_data = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 13:24:04,617 INFO userName = spencer password = 123456
+2020-04-01 13:24:04,639 INFO namelist = ('spencer',)
+2020-04-01 13:24:04,639 INFO insert = insert into login_user(name, password, status) values('spencer','123456','ACTIVE')
+2020-04-01 13:24:04,640 ERROR Technical error
+2020-04-01 13:27:58,570 INFO request json_data = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 13:27:58,571 INFO userName = spencer password = 123456
+2020-04-01 13:27:58,614 INFO namelist = ('spencer',)
+2020-04-01 13:27:58,615 INFO insert = insert into login_user(name, password, status) values('spencer','123456','ACTIVE')
+2020-04-01 13:27:58,616 ERROR Technical error
+2020-04-01 13:32:19,795 INFO request json_data = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 13:32:19,795 INFO userName = spencer password = 123456
+2020-04-01 13:32:19,826 INFO namelist = ('spencer',)
+2020-04-01 13:32:19,827 INFO insert = insert into login_user(name, password, status) values('spencer','123456','ACTIVE')
+2020-04-01 13:32:19,828 ERROR Technical error
+2020-04-01 13:33:00,875 INFO request json_data = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 13:33:00,875 INFO userName = spencer password = 123456
+2020-04-01 13:33:00,895 INFO namelist = [('spencer',)]
+2020-04-01 13:33:00,895 INFO insert = insert into login_user(name, password, status) values('spencer','123456','ACTIVE')
+2020-04-01 13:33:00,896 ERROR Technical error
+2020-04-01 13:34:48,587 INFO request json_data = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 13:34:48,588 INFO userName = spencer password = 123456
+2020-04-01 13:34:48,613 INFO type(namelist) = <class 'tuple'>
+2020-04-01 13:34:48,614 INFO namelist = [('spencer',)]
+2020-04-01 13:34:48,614 INFO insert = insert into login_user(name, password, status) values('spencer','123456','ACTIVE')
+2020-04-01 13:34:48,615 ERROR Technical error
+2020-04-01 13:41:37,442 INFO request json_data = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 13:41:37,443 INFO userName = spencer password = 123456
+2020-04-01 13:41:37,468 INFO namelist = ('spencer',)
+2020-04-01 13:41:37,468 INFO name = spencer
+2020-04-01 13:41:37,468 INFO insert = insert into login_user(name, password, status) values('spencer','123456','ACTIVE')
+2020-04-01 13:41:37,469 ERROR Technical error
+2020-04-01 13:44:31,783 INFO request json_data = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 13:44:31,784 INFO userName = spencer password = 123456
+2020-04-01 13:44:31,804 INFO namelist = ('spencer',)
+2020-04-01 13:44:31,805 DEBUG msg : User exist
+2020-04-01 13:46:54,411 INFO request json_data = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 13:46:54,411 INFO userName = spencer password = 123456
+2020-04-01 13:46:54,439 INFO namelist = ('spencer',)
+2020-04-01 13:46:54,439 INFO insert = insert into login_user(name, password, status) values('spencer','123456','ACTIVE')
+2020-04-01 13:46:54,440 ERROR Technical error
+2020-04-01 13:57:32,209 INFO request json_data = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 13:57:32,209 INFO userName = spencer password = 123456
+2020-04-01 13:57:32,235 INFO namelist = ('spencer',)
+2020-04-01 13:57:32,235 DEBUG msg : User exist
+2020-04-01 13:58:19,703 INFO request json_data = {'userName': 'tony', 'password': '123456'}
+2020-04-01 13:58:19,703 INFO userName = tony password = 123456
+2020-04-01 13:58:19,720 INFO namelist = ('spencer',)
+2020-04-01 13:58:19,721 INFO insert = insert into login_user(name, password, status) values('tony','123456','ACTIVE')
+2020-04-01 13:58:19,732 ERROR Technical error
+2020-04-01 13:59:04,235 INFO request json_data = {'userName': 'tony', 'password': '123456'}
+2020-04-01 13:59:04,236 INFO userName = tony password = 123456
+2020-04-01 13:59:04,258 INFO namelist = ('spencer',)
+2020-04-01 13:59:04,258 INFO insert = insert into login_user(name, password, status) values('tony','123456','ACTIVE')
+2020-04-01 13:59:04,259 ERROR Technical error: (1054, "Unknown column 'password' in 'field list'")
+2020-04-01 13:59:47,248 INFO request json_data = {'userName': 'tony', 'password': '123456'}
+2020-04-01 13:59:47,248 INFO userName = tony password = 123456
+2020-04-01 13:59:47,270 INFO namelist = ('spencer',)
+2020-04-01 13:59:47,271 INFO insert = insert into login_user(name, pwd, status) values('tony','123456','ACTIVE')
+2020-04-01 13:59:47,287 INFO Succeed to register
+2020-04-01 14:00:15,189 INFO request json_data = {'userName': '', 'password': '123456'}
+2020-04-01 14:00:15,189 INFO userName =  password = 123456
+2020-04-01 14:01:24,472 INFO request json_data = {'userName': '', 'password': '123456'}
+2020-04-01 14:01:24,472 INFO userName =  password = 123456
+2020-04-01 14:01:24,473 DEBUG msg : UserName missing
+2020-04-01 14:02:09,704 INFO request json_data = {'userName': '', 'password': '123456'}
+2020-04-01 14:02:09,704 INFO userName =  password = 123456
+2020-04-01 14:02:09,704 DEBUG msg : UserName missing
+2020-04-01 14:02:21,238 INFO request json_data = {'userName': 'rwer', 'password': ''}
+2020-04-01 14:02:21,238 INFO userName = rwer password = 
+2020-04-01 14:02:21,239 DEBUG msg : Password missing
+2020-04-01 14:02:27,376 INFO request json_data = {'userName': '', 'password': ''}
+2020-04-01 14:02:27,376 INFO userName =  password = 
+2020-04-01 14:02:27,376 DEBUG msg : UserName missing
+2020-04-01 14:02:37,458 INFO request json_data = {'userName': None, 'password': ''}
+2020-04-01 14:02:37,459 INFO userName = None password = 
+2020-04-01 14:02:37,459 DEBUG msg : Password missing
+2020-04-01 14:05:01,352 INFO request json_data = {'userName': None, 'password': ''}
+2020-04-01 14:05:01,352 INFO userName = None password = 
+2020-04-01 14:05:01,352 DEBUG msg : Password missing
+2020-04-01 14:05:47,242 INFO request json_data = {'userName': None, 'password': ''}
+2020-04-01 14:05:47,242 INFO userName = None password = 
+2020-04-01 14:05:47,242 DEBUG msg : UserName missing
+2020-04-01 15:22:53,081 INFO request payload = {'userName': None, 'password': ''}
+2020-04-01 15:22:53,099 INFO userName = None password = 
+2020-04-01 15:22:53,099 DEBUG msg : Password missing
+2020-04-01 15:24:07,515 INFO request payload = {'userName': None, 'password': ''}
+2020-04-01 15:24:07,516 INFO userName = None password = 
+2020-04-01 15:24:07,516 DEBUG msg : Password missing
+2020-04-01 15:33:50,111 INFO request payload = {'userName': None, 'password': ''}
+2020-04-01 15:33:50,111 INFO userName = None password = 
+2020-04-01 15:33:50,112 DEBUG msg : Password missing
+2020-04-01 15:42:42,179 INFO request payload = {'userName': None, 'password': ''}
+2020-04-01 15:42:42,179 INFO userName = None password = 
+2020-04-01 15:42:42,180 DEBUG msg : Password missing
+2020-04-01 16:05:46,863 INFO request payload = {'userName': 'Spencer', 'password': '123456'}
+2020-04-01 16:05:46,887 INFO userName = Spencer password = 123456
+2020-04-01 16:09:43,150 INFO request payload = {'userName': 'Spencer', 'password': '123456'}
+2020-04-01 16:09:43,151 INFO userName = Spencer password = 123456
+2020-04-01 16:10:18,806 INFO request payload = {'userName': 'Spencer', 'password': '123456'}
+2020-04-01 16:10:18,806 INFO userName = Spencer password = 123456
+2020-04-01 16:10:18,829 INFO namelist(('spencer',), ('tony',))
+2020-04-01 16:11:11,979 INFO request payload = {'userName': 'Spencer', 'password': '123456'}
+2020-04-01 16:11:11,979 INFO userName = Spencer password = 123456
+2020-04-01 16:11:12,001 INFO namelist(('spencer',), ('tony',))
+2020-04-01 16:11:12,002 DEBUG msg : User exist
+2020-04-01 16:28:48,569 INFO request payload = {'userName': 'Speuuoohohkhkhkhkhkhkncer', 'password': '123456'}
+2020-04-01 16:28:48,569 INFO userName = Speuuoohohkhkhkhkhkhkncer password = 123456
+2020-04-01 16:29:02,263 INFO request payload = {'userName': 'Speuuoohoer', 'password': '123456pipippoipoi09-0909-9'}
+2020-04-01 16:29:02,264 INFO userName = Speuuoohoer password = 123456pipippoipoi09-0909-9
+2020-04-01 21:23:24,751 INFO request payload = {'userName': 'Speuuoohoer', 'password': '123456pipippoipoi09-0909-9'}
+2020-04-01 21:23:24,856 INFO userName = Speuuoohoer password = 123456pipippoipoi09-0909-9
+2020-04-01 21:23:44,660 INFO request payload = {'userName': 'Alex zhao', 'password': '12345'}
+2020-04-01 21:23:44,661 INFO userName = Alex zhao password = 12345
+2020-04-01 21:23:44,941 INFO namelist(('spencer',), ('tony',))
+2020-04-01 21:23:44,941 INFO insert = insert into login_user(name, pwd, status) values('Alex zhao','12345','ACTIVE')
+2020-04-01 21:23:44,956 INFO Succeed to register
+2020-04-01 21:36:07,447 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:36:09,465 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:37:25,521 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:37:27,543 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:38:24,423 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:38:26,444 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:39:36,453 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:39:38,483 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:40:54,544 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:40:56,564 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:41:47,497 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:41:49,525 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:43:54,593 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:43:56,618 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:49:24,115 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:49:26,262 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:49:42,385 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:49:44,402 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:50:42,972 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:50:45,008 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:58:56,775 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:58:58,791 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:59:23,260 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 21:59:25,277 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:00:47,464 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:00:49,487 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:02:54,471 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:02:56,489 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:04:37,780 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:04:39,796 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:08:17,671 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:08:19,814 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:08:59,186 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:09:01,215 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:12:50,429 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:12:52,457 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:14:39,859 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:14:41,888 INFO request payload = {"userName":"spencer","password":"123456"}
+2020-04-01 22:16:01,506 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:16:01,506 INFO userName = spencer password = 123456
+2020-04-01 22:16:01,525 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:16:01,525 DEBUG msg : User exist
+2020-04-01 22:16:03,676 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:16:03,676 INFO userName = spencer password = 123456
+2020-04-01 22:16:03,693 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:16:03,694 DEBUG msg : User exist
+2020-04-01 22:19:15,482 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:19:15,483 INFO userName = spencer password = 123456
+2020-04-01 22:19:15,501 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:19:15,501 DEBUG msg : User exist
+2020-04-01 22:19:17,521 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:19:17,522 INFO userName = spencer password = 123456
+2020-04-01 22:19:17,538 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:19:17,538 DEBUG msg : User exist
+2020-04-01 22:19:50,074 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:19:50,074 INFO userName = spencer password = 123456
+2020-04-01 22:19:50,091 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:19:50,091 DEBUG msg : User exist
+2020-04-01 22:19:52,121 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:19:52,121 INFO userName = spencer password = 123456
+2020-04-01 22:19:52,138 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:19:52,139 DEBUG msg : User exist
+2020-04-01 22:20:38,473 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:20:38,473 INFO userName = spencer password = 123456
+2020-04-01 22:20:38,492 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:20:38,492 DEBUG msg : User exist
+2020-04-01 22:20:40,512 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:20:40,513 INFO userName = spencer password = 123456
+2020-04-01 22:20:40,530 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:20:40,531 DEBUG msg : User exist
+2020-04-01 22:22:39,794 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:22:39,795 INFO userName = spencer password = 123456
+2020-04-01 22:22:39,811 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:22:39,812 DEBUG msg : User exist
+2020-04-01 22:22:41,836 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:22:41,836 INFO userName = spencer password = 123456
+2020-04-01 22:22:41,852 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:22:41,852 DEBUG msg : User exist
+2020-04-01 22:30:38,202 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:30:38,203 INFO userName = spencer password = 123456
+2020-04-01 22:30:38,223 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:30:38,223 DEBUG msg : User exist
+2020-04-01 22:30:40,246 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:30:40,246 INFO userName = spencer password = 123456
+2020-04-01 22:30:40,263 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:30:40,264 DEBUG msg : User exist
+2020-04-01 22:31:50,771 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:31:50,771 INFO userName = spencer password = 123456
+2020-04-01 22:31:50,785 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:31:50,786 DEBUG msg : User exist
+2020-04-01 22:31:52,813 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:31:52,813 INFO userName = spencer password = 123456
+2020-04-01 22:31:52,830 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:31:52,831 DEBUG msg : User exist
+2020-04-01 22:31:54,866 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:31:54,867 INFO userName = spencer password = 123456
+2020-04-01 22:31:54,883 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:31:54,884 DEBUG msg : User exist
+2020-04-01 22:31:56,906 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:31:56,907 INFO userName = spencer password = 123456
+2020-04-01 22:31:56,922 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:31:56,923 DEBUG msg : User exist
+2020-04-01 22:31:58,951 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:31:58,951 INFO userName = spencer password = 123456
+2020-04-01 22:31:58,965 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:31:58,966 DEBUG msg : User exist
+2020-04-01 22:32:01,085 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:32:01,085 INFO userName = spencer password = 123456
+2020-04-01 22:32:01,100 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:32:01,100 DEBUG msg : User exist
+2020-04-01 22:32:03,125 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:32:03,125 INFO userName = spencer password = 123456
+2020-04-01 22:32:03,142 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:32:03,143 DEBUG msg : User exist
+2020-04-01 22:32:05,170 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:32:05,170 INFO userName = spencer password = 123456
+2020-04-01 22:32:05,185 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:32:05,185 DEBUG msg : User exist
+2020-04-01 22:32:07,310 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:32:07,311 INFO userName = spencer password = 123456
+2020-04-01 22:32:07,325 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:32:07,326 DEBUG msg : User exist
+2020-04-01 22:32:09,355 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:32:09,355 INFO userName = spencer password = 123456
+2020-04-01 22:32:09,372 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:32:09,372 DEBUG msg : User exist
+2020-04-01 22:34:07,661 INFO request payload = {'userName': 'huang', 'password': '123456'}
+2020-04-01 22:34:07,662 INFO userName = huang password = 123456
+2020-04-01 22:34:07,676 INFO namelist(('spencer',), ('tony',), ('Alex zhao',))
+2020-04-01 22:34:07,676 INFO insert = insert into login_user(name, pwd, status) values('huang','123456','ACTIVE')
+2020-04-01 22:34:07,690 INFO Succeed to register
+2020-04-01 22:34:09,732 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:34:09,732 INFO userName = spencer password = 123456
+2020-04-01 22:34:09,750 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-01 22:34:09,751 DEBUG msg : User exist
+2020-04-01 22:34:11,773 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-01 22:34:11,774 INFO userName =  password = 123456
+2020-04-01 22:34:11,774 DEBUG msg : UserName missing
+2020-04-01 22:34:13,798 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-01 22:34:13,798 INFO userName = spencer password = 
+2020-04-01 22:34:13,799 DEBUG msg : Password missing
+2020-04-01 22:34:15,826 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-01 22:34:15,826 INFO userName = None password = 123456
+2020-04-01 22:34:17,860 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-01 22:34:17,860 INFO userName = spencer password = None
+2020-04-01 22:34:19,904 INFO request payload = {'userName': '', 'password': ''}
+2020-04-01 22:34:19,905 INFO userName =  password = 
+2020-04-01 22:34:19,905 DEBUG msg : UserName missing
+2020-04-01 22:34:21,936 INFO request payload = {'userName': None, 'password': None}
+2020-04-01 22:34:21,937 INFO userName = None password = None
+2020-04-01 22:34:23,973 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-01 22:34:23,973 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-01 22:34:26,000 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-01 22:34:26,000 INFO userName = spencer password = 12343243243243ssss56
+2020-04-01 22:36:29,012 INFO request payload = {'userName': 'huang', 'password': '123456'}
+2020-04-01 22:36:29,013 INFO userName = huang password = 123456
+2020-04-01 22:36:29,192 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-01 22:36:29,193 DEBUG msg : User exist
+2020-04-01 22:36:31,218 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-01 22:36:31,218 INFO userName = spencer password = 123456
+2020-04-01 22:36:31,232 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-01 22:36:31,232 DEBUG msg : User exist
+2020-04-01 22:36:33,258 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-01 22:36:33,258 INFO userName =  password = 123456
+2020-04-01 22:36:33,259 DEBUG msg : UserName missing
+2020-04-01 22:36:35,284 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-01 22:36:35,284 INFO userName = spencer password = 
+2020-04-01 22:36:35,285 DEBUG msg : Password missing
+2020-04-01 22:36:37,394 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-01 22:36:37,394 INFO userName = None password = 123456
+2020-04-01 22:36:39,432 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-01 22:36:39,432 INFO userName = spencer password = None
+2020-04-01 22:36:41,469 INFO request payload = {'userName': '', 'password': ''}
+2020-04-01 22:36:41,469 INFO userName =  password = 
+2020-04-01 22:36:41,470 DEBUG msg : UserName missing
+2020-04-01 22:36:43,494 INFO request payload = {'userName': None, 'password': None}
+2020-04-01 22:36:43,494 INFO userName = None password = None
+2020-04-01 22:36:45,530 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-01 22:36:45,530 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-01 22:36:47,561 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-01 22:36:47,562 INFO userName = spencer password = 12343243243243ssss56
+2020-04-02 09:34:42,529 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 09:34:42,622 INFO userName = spencer password = 123456
+2020-04-02 09:34:42,696 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-02 09:34:42,696 DEBUG msg : User exist
+2020-04-02 09:37:20,897 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 09:37:20,897 INFO userName = spencer password = 123456
+2020-04-02 09:37:20,914 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-02 09:37:20,914 DEBUG msg : User exist
+2020-04-02 09:39:07,583 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-02 09:39:07,584 INFO userName = None password = 123456
+2020-04-02 09:39:07,584 DEBUG msg : UserName missing
+2020-04-02 09:39:09,607 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 09:39:09,608 INFO userName = spencer password = 123456
+2020-04-02 09:39:09,622 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-02 09:39:09,622 DEBUG msg : User exist
+2020-04-02 09:39:37,937 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-02 09:39:37,938 INFO userName = None password = 123456
+2020-04-02 09:39:37,938 DEBUG msg : UserName missing
+2020-04-02 09:39:39,956 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 09:39:39,956 INFO userName = spencer password = 123456
+2020-04-02 09:39:39,976 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-02 09:39:39,976 DEBUG msg : User exist
+2020-04-02 09:40:53,422 INFO request payload = {'userName': 'huang', 'password': '123456'}
+2020-04-02 09:40:53,423 INFO userName = huang password = 123456
+2020-04-02 09:40:53,437 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-02 09:40:53,438 DEBUG msg : User exist
+2020-04-02 09:40:55,456 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 09:40:55,456 INFO userName = spencer password = 123456
+2020-04-02 09:40:55,470 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-02 09:40:55,470 DEBUG msg : User exist
+2020-04-02 09:40:57,496 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-02 09:40:57,497 INFO userName =  password = 123456
+2020-04-02 09:40:57,497 DEBUG msg : UserName missing
+2020-04-02 09:40:59,532 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-02 09:40:59,532 INFO userName = spencer password = 
+2020-04-02 09:40:59,533 DEBUG msg : Password missing
+2020-04-02 09:41:01,558 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-02 09:41:01,559 INFO userName = None password = 123456
+2020-04-02 09:41:01,559 DEBUG msg : UserName missing
+2020-04-02 09:41:03,581 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-02 09:41:03,581 INFO userName = spencer password = None
+2020-04-02 09:41:03,582 DEBUG msg : Password missing
+2020-04-02 09:41:05,604 INFO request payload = {'userName': '', 'password': ''}
+2020-04-02 09:41:05,604 INFO userName =  password = 
+2020-04-02 09:41:05,605 DEBUG msg : UserName missing
+2020-04-02 09:41:07,632 INFO request payload = {'userName': None, 'password': None}
+2020-04-02 09:41:07,632 INFO userName = None password = None
+2020-04-02 09:41:07,633 DEBUG msg : UserName missing
+2020-04-02 09:41:09,656 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-02 09:41:09,657 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-02 09:41:11,682 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-02 09:41:11,683 INFO userName = spencer password = 12343243243243ssss56
+2020-04-02 09:47:02,771 INFO request payload = {'userName': 'huang', 'password': '123456'}
+2020-04-02 09:47:02,772 INFO userName = huang password = 123456
+2020-04-02 09:47:02,787 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-02 09:47:02,788 DEBUG msg : User exist
+2020-04-02 09:47:04,809 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 09:47:04,810 INFO userName = spencer password = 123456
+2020-04-02 09:47:04,827 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-02 09:47:04,827 DEBUG msg : User exist
+2020-04-02 09:47:06,851 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-02 09:47:06,851 INFO userName =  password = 123456
+2020-04-02 09:47:06,852 DEBUG msg : UserName missing
+2020-04-02 09:47:08,878 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-02 09:47:08,879 INFO userName = spencer password = 
+2020-04-02 09:47:08,879 DEBUG msg : Password missing
+2020-04-02 09:47:10,904 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-02 09:47:10,905 INFO userName = None password = 123456
+2020-04-02 09:47:10,905 DEBUG msg : UserName missing
+2020-04-02 09:47:12,929 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-02 09:47:12,930 INFO userName = spencer password = None
+2020-04-02 09:47:12,930 DEBUG msg : Password missing
+2020-04-02 09:47:14,955 INFO request payload = {'userName': '', 'password': ''}
+2020-04-02 09:47:14,955 INFO userName =  password = 
+2020-04-02 09:47:14,955 DEBUG msg : UserName missing
+2020-04-02 09:47:16,984 INFO request payload = {'userName': None, 'password': None}
+2020-04-02 09:47:16,985 INFO userName = None password = None
+2020-04-02 09:47:16,985 DEBUG msg : UserName missing
+2020-04-02 09:47:19,010 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-02 09:47:19,010 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-02 09:47:21,035 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-02 09:47:21,035 INFO userName = spencer password = 12343243243243ssss56
+2020-04-02 09:49:18,953 INFO request payload = {'userName': 'huang', 'password': '123456'}
+2020-04-02 09:49:18,953 INFO userName = huang password = 123456
+2020-04-02 09:49:18,981 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-02 09:49:18,982 DEBUG msg : User exist
+2020-04-02 09:49:21,007 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 09:49:21,007 INFO userName = spencer password = 123456
+2020-04-02 09:49:21,025 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-02 09:49:21,025 DEBUG msg : User exist
+2020-04-02 09:49:23,060 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-02 09:49:23,061 INFO userName =  password = 123456
+2020-04-02 09:49:23,061 DEBUG msg : UserName missing
+2020-04-02 09:49:25,085 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-02 09:49:25,085 INFO userName = spencer password = 
+2020-04-02 09:49:25,086 DEBUG msg : Password missing
+2020-04-02 09:49:27,108 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-02 09:49:27,108 INFO userName = None password = 123456
+2020-04-02 09:49:27,109 DEBUG msg : UserName missing
+2020-04-02 09:49:29,138 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-02 09:49:29,139 INFO userName = spencer password = None
+2020-04-02 09:49:29,139 DEBUG msg : Password missing
+2020-04-02 09:49:31,163 INFO request payload = {'userName': '', 'password': ''}
+2020-04-02 09:49:31,163 INFO userName =  password = 
+2020-04-02 09:49:31,164 DEBUG msg : UserName missing
+2020-04-02 09:49:33,186 INFO request payload = {'userName': None, 'password': None}
+2020-04-02 09:49:33,187 INFO userName = None password = None
+2020-04-02 09:49:33,187 DEBUG msg : UserName missing
+2020-04-02 09:49:35,210 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-02 09:49:35,210 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-02 09:49:37,233 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-02 09:49:37,233 INFO userName = spencer password = 12343243243243ssss56
+2020-04-02 09:52:36,851 INFO request payload = {'userName': 'huang', 'password': '123456'}
+2020-04-02 09:52:36,852 INFO userName = huang password = 123456
+2020-04-02 09:52:36,865 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-02 09:52:36,865 DEBUG msg : User exist
+2020-04-02 09:52:38,890 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 09:52:38,890 INFO userName = spencer password = 123456
+2020-04-02 09:52:38,917 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-02 09:52:38,918 DEBUG msg : User exist
+2020-04-02 09:52:40,949 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-02 09:52:40,950 INFO userName =  password = 123456
+2020-04-02 09:52:40,950 DEBUG msg : UserName missing
+2020-04-02 09:52:42,977 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-02 09:52:42,978 INFO userName = spencer password = 
+2020-04-02 09:52:42,978 DEBUG msg : Password missing
+2020-04-02 09:52:45,014 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-02 09:52:45,015 INFO userName = None password = 123456
+2020-04-02 09:52:45,015 DEBUG msg : UserName missing
+2020-04-02 09:52:47,040 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-02 09:52:47,041 INFO userName = spencer password = None
+2020-04-02 09:52:47,041 DEBUG msg : Password missing
+2020-04-02 09:52:49,064 INFO request payload = {'userName': '', 'password': ''}
+2020-04-02 09:52:49,065 INFO userName =  password = 
+2020-04-02 09:52:49,065 DEBUG msg : UserName missing
+2020-04-02 09:52:51,094 INFO request payload = {'userName': None, 'password': None}
+2020-04-02 09:52:51,094 INFO userName = None password = None
+2020-04-02 09:52:51,095 DEBUG msg : UserName missing
+2020-04-02 09:52:53,124 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-02 09:52:53,124 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-02 09:52:55,169 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-02 09:52:55,169 INFO userName = spencer password = 12343243243243ssss56
+2020-04-02 09:55:57,497 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 09:55:57,498 INFO userName = spencer password = 123456
+2020-04-02 09:55:57,515 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-02 09:55:57,515 DEBUG msg : User exist
+2020-04-02 10:00:54,339 INFO request payload = {'userName': 'Zoe Ren', 'password': '123456'}
+2020-04-02 10:00:54,340 INFO userName = Zoe Ren password = 123456
+2020-04-02 10:00:54,358 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',))
+2020-04-02 10:00:54,358 INFO insert = insert into login_user(name, pwd, status) values('Zoe Ren','123456','ACTIVE')
+2020-04-02 10:00:54,365 INFO Succeed to register
+2020-04-02 10:00:56,396 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 10:00:56,396 INFO userName = spencer password = 123456
+2020-04-02 10:00:56,410 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',))
+2020-04-02 10:00:56,411 DEBUG msg : User exist
+2020-04-02 10:00:58,437 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-02 10:00:58,438 INFO userName =  password = 123456
+2020-04-02 10:00:58,438 DEBUG msg : UserName missing
+2020-04-02 10:01:00,462 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-02 10:01:00,462 INFO userName = spencer password = 
+2020-04-02 10:01:00,463 DEBUG msg : Password missing
+2020-04-02 10:01:02,499 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-02 10:01:02,499 INFO userName = None password = 123456
+2020-04-02 10:01:02,499 DEBUG msg : UserName missing
+2020-04-02 10:01:04,525 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-02 10:01:04,525 INFO userName = spencer password = None
+2020-04-02 10:01:04,526 DEBUG msg : Password missing
+2020-04-02 10:01:06,549 INFO request payload = {'userName': '', 'password': ''}
+2020-04-02 10:01:06,549 INFO userName =  password = 
+2020-04-02 10:01:06,550 DEBUG msg : UserName missing
+2020-04-02 10:01:08,575 INFO request payload = {'userName': None, 'password': None}
+2020-04-02 10:01:08,575 INFO userName = None password = None
+2020-04-02 10:01:08,576 DEBUG msg : UserName missing
+2020-04-02 10:01:10,600 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-02 10:01:10,600 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-02 10:01:12,624 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-02 10:01:12,624 INFO userName = spencer password = 12343243243243ssss56
+2020-04-02 10:11:52,763 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-02 10:11:52,764 INFO userName = Kelly Ren password = 123456
+2020-04-02 10:11:52,777 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',))
+2020-04-02 10:11:52,777 INFO insert = insert into login_user(name, pwd, status) values('Kelly Ren','123456','ACTIVE')
+2020-04-02 10:11:52,784 INFO Succeed to register
+2020-04-02 10:11:54,809 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 10:11:54,810 INFO userName = spencer password = 123456
+2020-04-02 10:11:54,823 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-02 10:11:54,824 DEBUG msg : User exist
+2020-04-02 10:11:56,848 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-02 10:11:56,848 INFO userName =  password = 123456
+2020-04-02 10:11:56,849 DEBUG msg : UserName missing
+2020-04-02 10:11:58,877 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-02 10:11:58,877 INFO userName = spencer password = 
+2020-04-02 10:11:58,877 DEBUG msg : Password missing
+2020-04-02 10:12:00,901 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-02 10:12:00,901 INFO userName = None password = 123456
+2020-04-02 10:12:00,902 DEBUG msg : UserName missing
+2020-04-02 10:12:02,932 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-02 10:12:02,932 INFO userName = spencer password = None
+2020-04-02 10:12:02,933 DEBUG msg : Password missing
+2020-04-02 10:12:04,957 INFO request payload = {'userName': '', 'password': ''}
+2020-04-02 10:12:04,957 INFO userName =  password = 
+2020-04-02 10:12:04,957 DEBUG msg : UserName missing
+2020-04-02 10:12:06,983 INFO request payload = {'userName': None, 'password': None}
+2020-04-02 10:12:06,983 INFO userName = None password = None
+2020-04-02 10:12:06,983 DEBUG msg : UserName missing
+2020-04-02 10:12:09,028 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-02 10:12:09,028 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-02 10:12:11,061 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-02 10:12:11,061 INFO userName = spencer password = 12343243243243ssss56
+2020-04-02 10:14:06,644 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-02 10:14:06,645 INFO userName = Kelly Ren password = 123456
+2020-04-02 10:14:06,660 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-02 10:14:06,660 DEBUG msg : User exist
+2020-04-02 10:14:08,684 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 10:14:08,684 INFO userName = spencer password = 123456
+2020-04-02 10:14:08,700 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-02 10:14:08,700 DEBUG msg : User exist
+2020-04-02 10:14:10,727 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-02 10:14:10,727 INFO userName =  password = 123456
+2020-04-02 10:14:10,727 DEBUG msg : UserName missing
+2020-04-02 10:14:12,765 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-02 10:14:12,766 INFO userName = spencer password = 
+2020-04-02 10:14:12,766 DEBUG msg : Password missing
+2020-04-02 10:14:14,788 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-02 10:14:14,788 INFO userName = None password = 123456
+2020-04-02 10:14:14,788 DEBUG msg : UserName missing
+2020-04-02 10:14:16,826 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-02 10:14:16,827 INFO userName = spencer password = None
+2020-04-02 10:14:16,827 DEBUG msg : Password missing
+2020-04-02 10:14:18,854 INFO request payload = {'userName': '', 'password': ''}
+2020-04-02 10:14:18,854 INFO userName =  password = 
+2020-04-02 10:14:18,854 DEBUG msg : UserName missing
+2020-04-02 10:14:20,889 INFO request payload = {'userName': None, 'password': None}
+2020-04-02 10:14:20,890 INFO userName = None password = None
+2020-04-02 10:14:20,890 DEBUG msg : UserName missing
+2020-04-02 10:14:22,919 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-02 10:14:22,920 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-02 10:14:24,945 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-02 10:14:24,946 INFO userName = spencer password = 12343243243243ssss56
+2020-04-02 10:17:27,330 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-02 10:17:27,331 INFO userName = Kelly Ren password = 123456
+2020-04-02 10:17:27,345 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-02 10:17:27,345 DEBUG msg : User exist
+2020-04-02 10:17:29,375 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 10:17:29,376 INFO userName = spencer password = 123456
+2020-04-02 10:17:29,390 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-02 10:17:29,390 DEBUG msg : User exist
+2020-04-02 10:17:31,415 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-02 10:17:31,415 INFO userName =  password = 123456
+2020-04-02 10:17:31,416 DEBUG msg : UserName missing
+2020-04-02 10:17:33,439 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-02 10:17:33,439 INFO userName = spencer password = 
+2020-04-02 10:17:33,440 DEBUG msg : Password missing
+2020-04-02 10:17:35,462 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-02 10:17:35,463 INFO userName = None password = 123456
+2020-04-02 10:17:35,463 DEBUG msg : UserName missing
+2020-04-02 10:17:37,492 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-02 10:17:37,492 INFO userName = spencer password = None
+2020-04-02 10:17:37,493 DEBUG msg : Password missing
+2020-04-02 10:17:39,516 INFO request payload = {'userName': '', 'password': ''}
+2020-04-02 10:17:39,516 INFO userName =  password = 
+2020-04-02 10:17:39,516 DEBUG msg : UserName missing
+2020-04-02 10:17:41,540 INFO request payload = {'userName': None, 'password': None}
+2020-04-02 10:17:41,540 INFO userName = None password = None
+2020-04-02 10:17:41,541 DEBUG msg : UserName missing
+2020-04-02 10:17:43,577 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-02 10:17:43,577 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-02 10:17:45,603 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-02 10:17:45,603 INFO userName = spencer password = 12343243243243ssss56
+2020-04-02 10:19:38,996 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-02 10:19:38,996 INFO userName = Kelly Ren password = 123456
+2020-04-02 10:19:39,013 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-02 10:19:39,013 DEBUG msg : User exist
+2020-04-02 10:19:41,035 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 10:19:41,035 INFO userName = spencer password = 123456
+2020-04-02 10:19:41,049 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-02 10:19:41,049 DEBUG msg : User exist
+2020-04-02 10:19:43,079 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-02 10:19:43,080 INFO userName =  password = 123456
+2020-04-02 10:19:43,080 DEBUG msg : UserName missing
+2020-04-02 10:19:45,106 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-02 10:19:45,106 INFO userName = spencer password = 
+2020-04-02 10:19:45,107 DEBUG msg : Password missing
+2020-04-02 10:19:47,137 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-02 10:19:47,137 INFO userName = None password = 123456
+2020-04-02 10:19:47,138 DEBUG msg : UserName missing
+2020-04-02 10:19:49,167 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-02 10:19:49,167 INFO userName = spencer password = None
+2020-04-02 10:19:49,168 DEBUG msg : Password missing
+2020-04-02 10:19:51,201 INFO request payload = {'userName': '', 'password': ''}
+2020-04-02 10:19:51,201 INFO userName =  password = 
+2020-04-02 10:19:51,202 DEBUG msg : UserName missing
+2020-04-02 10:19:53,228 INFO request payload = {'userName': None, 'password': None}
+2020-04-02 10:19:53,229 INFO userName = None password = None
+2020-04-02 10:19:53,229 DEBUG msg : UserName missing
+2020-04-02 10:19:55,256 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-02 10:19:55,256 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-02 10:19:57,286 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-02 10:19:57,286 INFO userName = spencer password = 12343243243243ssss56
+2020-04-02 10:21:30,365 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-02 10:21:30,366 INFO userName = Kelly Ren password = 123456
+2020-04-02 10:21:30,380 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-02 10:21:30,380 DEBUG msg : User exist
+2020-04-02 10:21:32,403 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 10:21:32,403 INFO userName = spencer password = 123456
+2020-04-02 10:21:32,417 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-02 10:21:32,418 DEBUG msg : User exist
+2020-04-02 10:21:34,451 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-02 10:21:34,452 INFO userName =  password = 123456
+2020-04-02 10:21:34,452 DEBUG msg : UserName missing
+2020-04-02 10:21:36,474 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-02 10:21:36,474 INFO userName = spencer password = 
+2020-04-02 10:21:36,475 DEBUG msg : Password missing
+2020-04-02 10:21:38,498 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-02 10:21:38,499 INFO userName = None password = 123456
+2020-04-02 10:21:38,499 DEBUG msg : UserName missing
+2020-04-02 10:21:40,523 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-02 10:21:40,523 INFO userName = spencer password = None
+2020-04-02 10:21:40,524 DEBUG msg : Password missing
+2020-04-02 10:21:42,548 INFO request payload = {'userName': '', 'password': ''}
+2020-04-02 10:21:42,548 INFO userName =  password = 
+2020-04-02 10:21:42,548 DEBUG msg : UserName missing
+2020-04-02 10:21:44,573 INFO request payload = {'userName': None, 'password': None}
+2020-04-02 10:21:44,573 INFO userName = None password = None
+2020-04-02 10:21:44,574 DEBUG msg : UserName missing
+2020-04-02 10:21:46,596 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-02 10:21:46,596 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-02 10:21:48,623 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-02 10:21:48,624 INFO userName = spencer password = 12343243243243ssss56
+2020-04-02 10:24:42,359 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-02 10:24:42,359 INFO userName = Kelly Ren password = 123456
+2020-04-02 10:24:42,375 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-02 10:24:42,375 DEBUG msg : User exist
+2020-04-02 10:24:44,398 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 10:24:44,398 INFO userName = spencer password = 123456
+2020-04-02 10:24:44,415 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-02 10:24:44,415 DEBUG msg : User exist
+2020-04-02 10:24:46,445 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-02 10:24:46,446 INFO userName =  password = 123456
+2020-04-02 10:24:46,446 DEBUG msg : UserName missing
+2020-04-02 10:24:48,469 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-02 10:24:48,470 INFO userName = spencer password = 
+2020-04-02 10:24:48,470 DEBUG msg : Password missing
+2020-04-02 10:24:50,497 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-02 10:24:50,498 INFO userName = None password = 123456
+2020-04-02 10:24:50,498 DEBUG msg : UserName missing
+2020-04-02 10:24:52,524 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-02 10:24:52,524 INFO userName = spencer password = None
+2020-04-02 10:24:52,525 DEBUG msg : Password missing
+2020-04-02 10:24:54,548 INFO request payload = {'userName': '', 'password': ''}
+2020-04-02 10:24:54,549 INFO userName =  password = 
+2020-04-02 10:24:54,549 DEBUG msg : UserName missing
+2020-04-02 10:24:56,577 INFO request payload = {'userName': None, 'password': None}
+2020-04-02 10:24:56,577 INFO userName = None password = None
+2020-04-02 10:24:56,578 DEBUG msg : UserName missing
+2020-04-02 10:24:58,608 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-02 10:24:58,608 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-02 10:25:00,632 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-02 10:25:00,632 INFO userName = spencer password = 12343243243243ssss56
+2020-04-02 10:26:18,912 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-02 10:26:18,912 INFO userName = Kelly Ren password = 123456
+2020-04-02 10:26:18,926 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-02 10:26:18,927 DEBUG msg : User exist
+2020-04-02 10:26:20,951 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-02 10:26:20,952 INFO userName = spencer password = 123456
+2020-04-02 10:26:20,966 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-02 10:26:20,966 DEBUG msg : User exist
+2020-04-02 10:26:22,994 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-02 10:26:22,994 INFO userName =  password = 123456
+2020-04-02 10:26:22,995 DEBUG msg : UserName missing
+2020-04-02 10:26:25,039 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-02 10:26:25,040 INFO userName = spencer password = 
+2020-04-02 10:26:25,040 DEBUG msg : Password missing
+2020-04-02 10:26:27,063 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-02 10:26:27,063 INFO userName = None password = 123456
+2020-04-02 10:26:27,064 DEBUG msg : UserName missing
+2020-04-02 10:26:29,086 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-02 10:26:29,086 INFO userName = spencer password = None
+2020-04-02 10:26:29,087 DEBUG msg : Password missing
+2020-04-02 10:26:31,120 INFO request payload = {'userName': '', 'password': ''}
+2020-04-02 10:26:31,121 INFO userName =  password = 
+2020-04-02 10:26:31,121 DEBUG msg : UserName missing
+2020-04-02 10:26:33,146 INFO request payload = {'userName': None, 'password': None}
+2020-04-02 10:26:33,147 INFO userName = None password = None
+2020-04-02 10:26:33,147 DEBUG msg : UserName missing
+2020-04-02 10:26:35,170 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-02 10:26:35,171 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-02 10:26:37,196 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-02 10:26:37,196 INFO userName = spencer password = 12343243243243ssss56
+2020-04-03 17:29:25,768 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-03 17:29:25,783 INFO userName = Kelly Ren password = 123456
+2020-04-03 17:29:25,819 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 17:29:25,819 DEBUG msg : User exist
+2020-04-03 17:29:27,852 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-03 17:29:27,852 INFO userName = spencer password = 123456
+2020-04-03 17:29:27,871 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 17:29:27,871 DEBUG msg : User exist
+2020-04-03 17:29:29,899 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-03 17:29:29,899 INFO userName =  password = 123456
+2020-04-03 17:29:29,900 DEBUG msg : UserName missing
+2020-04-03 17:29:31,928 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-03 17:29:31,928 INFO userName = spencer password = 
+2020-04-03 17:29:31,928 DEBUG msg : Password missing
+2020-04-03 17:29:33,953 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-03 17:29:33,953 INFO userName = None password = 123456
+2020-04-03 17:29:33,953 DEBUG msg : UserName missing
+2020-04-03 17:29:36,066 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-03 17:29:36,067 INFO userName = spencer password = None
+2020-04-03 17:29:36,067 DEBUG msg : Password missing
+2020-04-03 17:29:38,093 INFO request payload = {'userName': '', 'password': ''}
+2020-04-03 17:29:38,094 INFO userName =  password = 
+2020-04-03 17:29:38,094 DEBUG msg : UserName missing
+2020-04-03 17:29:40,121 INFO request payload = {'userName': None, 'password': None}
+2020-04-03 17:29:40,122 INFO userName = None password = None
+2020-04-03 17:29:40,122 DEBUG msg : UserName missing
+2020-04-03 17:29:42,146 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-03 17:29:42,146 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-03 17:29:44,173 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-03 17:29:44,173 INFO userName = spencer password = 12343243243243ssss56
+2020-04-03 17:32:00,574 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-03 17:32:00,575 INFO userName = Kelly Ren password = 123456
+2020-04-03 17:32:00,589 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 17:32:00,590 DEBUG msg : User exist
+2020-04-03 17:32:02,617 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-03 17:32:02,618 INFO userName = spencer password = 123456
+2020-04-03 17:32:02,633 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 17:32:02,633 DEBUG msg : User exist
+2020-04-03 17:32:04,658 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-03 17:32:04,658 INFO userName =  password = 123456
+2020-04-03 17:32:04,659 DEBUG msg : UserName missing
+2020-04-03 17:32:06,688 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-03 17:32:06,688 INFO userName = spencer password = 
+2020-04-03 17:32:06,689 DEBUG msg : Password missing
+2020-04-03 17:32:08,716 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-03 17:32:08,717 INFO userName = None password = 123456
+2020-04-03 17:32:08,717 DEBUG msg : UserName missing
+2020-04-03 17:32:10,738 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-03 17:32:10,739 INFO userName = spencer password = None
+2020-04-03 17:32:10,739 DEBUG msg : Password missing
+2020-04-03 17:32:12,769 INFO request payload = {'userName': '', 'password': ''}
+2020-04-03 17:32:12,770 INFO userName =  password = 
+2020-04-03 17:32:12,770 DEBUG msg : UserName missing
+2020-04-03 17:32:14,792 INFO request payload = {'userName': None, 'password': None}
+2020-04-03 17:32:14,793 INFO userName = None password = None
+2020-04-03 17:32:14,793 DEBUG msg : UserName missing
+2020-04-03 17:32:16,829 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-03 17:32:16,829 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-03 17:32:18,850 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-03 17:32:18,850 INFO userName = spencer password = 12343243243243ssss56
+2020-04-03 18:05:22,315 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-03 18:05:22,328 INFO userName = Kelly Ren password = 123456
+2020-04-03 18:05:22,347 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 18:05:22,347 DEBUG msg : User exist
+2020-04-03 18:05:24,371 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-03 18:05:24,372 INFO userName = spencer password = 123456
+2020-04-03 18:05:24,386 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 18:05:24,386 DEBUG msg : User exist
+2020-04-03 18:05:26,410 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-03 18:05:26,410 INFO userName =  password = 123456
+2020-04-03 18:05:26,411 DEBUG msg : UserName missing
+2020-04-03 18:05:28,432 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-03 18:05:28,432 INFO userName = spencer password = 
+2020-04-03 18:05:28,433 DEBUG msg : Password missing
+2020-04-03 18:05:30,457 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-03 18:05:30,458 INFO userName = None password = 123456
+2020-04-03 18:05:30,458 DEBUG msg : UserName missing
+2020-04-03 18:05:32,479 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-03 18:05:32,480 INFO userName = spencer password = None
+2020-04-03 18:05:32,480 DEBUG msg : Password missing
+2020-04-03 18:05:34,511 INFO request payload = {'userName': '', 'password': ''}
+2020-04-03 18:05:34,512 INFO userName =  password = 
+2020-04-03 18:05:34,512 DEBUG msg : UserName missing
+2020-04-03 18:05:36,535 INFO request payload = {'userName': None, 'password': None}
+2020-04-03 18:05:36,536 INFO userName = None password = None
+2020-04-03 18:05:36,536 DEBUG msg : UserName missing
+2020-04-03 18:05:38,557 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-03 18:05:38,557 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-03 18:05:40,580 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-03 18:05:40,581 INFO userName = spencer password = 12343243243243ssss56
+2020-04-03 20:01:00,810 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-03 20:01:00,810 INFO userName = Kelly Ren password = 123456
+2020-04-03 20:01:00,833 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 20:01:00,834 DEBUG msg : User exist
+2020-04-03 20:01:02,845 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-03 20:01:02,845 INFO userName = spencer password = 123456
+2020-04-03 20:01:02,859 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 20:01:02,859 DEBUG msg : User exist
+2020-04-03 20:01:04,867 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-03 20:01:04,867 INFO userName =  password = 123456
+2020-04-03 20:01:04,868 DEBUG msg : UserName missing
+2020-04-03 20:01:06,877 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-03 20:01:06,877 INFO userName = spencer password = 
+2020-04-03 20:01:06,877 DEBUG msg : Password missing
+2020-04-03 20:01:08,884 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-03 20:01:08,885 INFO userName = None password = 123456
+2020-04-03 20:01:08,885 DEBUG msg : UserName missing
+2020-04-03 20:01:10,894 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-03 20:01:10,895 INFO userName = spencer password = None
+2020-04-03 20:01:10,895 DEBUG msg : Password missing
+2020-04-03 20:01:12,906 INFO request payload = {'userName': '', 'password': ''}
+2020-04-03 20:01:12,907 INFO userName =  password = 
+2020-04-03 20:01:12,907 DEBUG msg : UserName missing
+2020-04-03 20:01:14,916 INFO request payload = {'userName': None, 'password': None}
+2020-04-03 20:01:14,916 INFO userName = None password = None
+2020-04-03 20:01:14,917 DEBUG msg : UserName missing
+2020-04-03 20:01:16,925 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-03 20:01:16,925 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-03 20:01:18,933 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-03 20:01:18,933 INFO userName = spencer password = 12343243243243ssss56
+2020-04-03 20:02:49,663 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-03 20:02:49,663 INFO userName = Kelly Ren password = 123456
+2020-04-03 20:02:49,678 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 20:02:49,678 DEBUG msg : User exist
+2020-04-03 20:02:51,687 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-03 20:02:51,687 INFO userName = spencer password = 123456
+2020-04-03 20:02:51,701 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 20:02:51,701 DEBUG msg : User exist
+2020-04-03 20:02:53,715 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-03 20:02:53,716 INFO userName =  password = 123456
+2020-04-03 20:02:53,716 DEBUG msg : UserName missing
+2020-04-03 20:02:55,724 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-03 20:02:55,724 INFO userName = spencer password = 
+2020-04-03 20:02:55,725 DEBUG msg : Password missing
+2020-04-03 20:02:57,733 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-03 20:02:57,733 INFO userName = None password = 123456
+2020-04-03 20:02:57,734 DEBUG msg : UserName missing
+2020-04-03 20:02:59,747 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-03 20:02:59,748 INFO userName = spencer password = None
+2020-04-03 20:02:59,748 DEBUG msg : Password missing
+2020-04-03 20:03:01,755 INFO request payload = {'userName': '', 'password': ''}
+2020-04-03 20:03:01,755 INFO userName =  password = 
+2020-04-03 20:03:01,756 DEBUG msg : UserName missing
+2020-04-03 20:03:03,765 INFO request payload = {'userName': None, 'password': None}
+2020-04-03 20:03:03,765 INFO userName = None password = None
+2020-04-03 20:03:03,766 DEBUG msg : UserName missing
+2020-04-03 20:03:05,778 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-03 20:03:05,778 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-03 20:03:07,786 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-03 20:03:07,786 INFO userName = spencer password = 12343243243243ssss56
+2020-04-03 20:19:35,093 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-03 20:19:35,093 INFO userName = Kelly Ren password = 123456
+2020-04-03 20:19:35,110 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 20:19:35,110 DEBUG msg : User exist
+2020-04-03 20:19:37,121 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-03 20:19:37,122 INFO userName = spencer password = 123456
+2020-04-03 20:19:37,155 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 20:19:37,155 DEBUG msg : User exist
+2020-04-03 20:19:39,166 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-03 20:19:39,167 INFO userName =  password = 123456
+2020-04-03 20:19:39,167 DEBUG msg : UserName missing
+2020-04-03 20:19:41,175 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-03 20:19:41,175 INFO userName = spencer password = 
+2020-04-03 20:19:41,175 DEBUG msg : Password missing
+2020-04-03 20:19:43,184 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-03 20:19:43,184 INFO userName = None password = 123456
+2020-04-03 20:19:43,185 DEBUG msg : UserName missing
+2020-04-03 20:19:45,193 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-03 20:19:45,193 INFO userName = spencer password = None
+2020-04-03 20:19:45,193 DEBUG msg : Password missing
+2020-04-03 20:19:47,205 INFO request payload = {'userName': '', 'password': ''}
+2020-04-03 20:19:47,206 INFO userName =  password = 
+2020-04-03 20:19:47,206 DEBUG msg : UserName missing
+2020-04-03 20:19:49,217 INFO request payload = {'userName': None, 'password': None}
+2020-04-03 20:19:49,218 INFO userName = None password = None
+2020-04-03 20:19:49,218 DEBUG msg : UserName missing
+2020-04-03 20:19:51,227 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-03 20:19:51,227 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-03 20:19:53,234 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-03 20:19:53,234 INFO userName = spencer password = 12343243243243ssss56
+2020-04-03 20:27:35,216 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-03 20:27:35,217 INFO userName = Kelly Ren password = 123456
+2020-04-03 20:27:35,231 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 20:27:35,231 DEBUG msg : User exist
+2020-04-03 20:27:37,244 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-03 20:27:37,244 INFO userName = spencer password = 123456
+2020-04-03 20:27:37,261 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 20:27:37,261 DEBUG msg : User exist
+2020-04-03 20:27:39,292 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-03 20:27:39,292 INFO userName =  password = 123456
+2020-04-03 20:27:39,293 DEBUG msg : UserName missing
+2020-04-03 20:27:41,308 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-03 20:27:41,308 INFO userName = spencer password = 
+2020-04-03 20:27:41,309 DEBUG msg : Password missing
+2020-04-03 20:27:43,320 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-03 20:27:43,320 INFO userName = None password = 123456
+2020-04-03 20:27:43,320 DEBUG msg : UserName missing
+2020-04-03 20:27:45,346 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-03 20:27:45,346 INFO userName = spencer password = None
+2020-04-03 20:27:45,347 DEBUG msg : Password missing
+2020-04-03 20:27:47,357 INFO request payload = {'userName': '', 'password': ''}
+2020-04-03 20:27:47,357 INFO userName =  password = 
+2020-04-03 20:27:47,358 DEBUG msg : UserName missing
+2020-04-03 20:27:49,366 INFO request payload = {'userName': None, 'password': None}
+2020-04-03 20:27:49,366 INFO userName = None password = None
+2020-04-03 20:27:49,367 DEBUG msg : UserName missing
+2020-04-03 20:27:51,377 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-03 20:27:51,377 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-03 20:27:53,388 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-03 20:27:53,388 INFO userName = spencer password = 12343243243243ssss56
+2020-04-03 20:35:10,172 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-03 20:35:10,172 INFO userName = Kelly Ren password = 123456
+2020-04-03 20:35:10,188 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 20:35:10,189 DEBUG msg : User exist
+2020-04-03 20:35:12,200 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-03 20:35:12,201 INFO userName = spencer password = 123456
+2020-04-03 20:35:12,217 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-03 20:35:12,217 DEBUG msg : User exist
+2020-04-03 20:35:14,228 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-03 20:35:14,229 INFO userName =  password = 123456
+2020-04-03 20:35:14,229 DEBUG msg : UserName missing
+2020-04-03 20:35:16,247 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-03 20:35:16,248 INFO userName = spencer password = 
+2020-04-03 20:35:16,248 DEBUG msg : Password missing
+2020-04-03 20:35:18,258 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-03 20:35:18,259 INFO userName = None password = 123456
+2020-04-03 20:35:18,259 DEBUG msg : UserName missing
+2020-04-03 20:35:20,279 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-03 20:35:20,279 INFO userName = spencer password = None
+2020-04-03 20:35:20,280 DEBUG msg : Password missing
+2020-04-03 20:35:22,288 INFO request payload = {'userName': '', 'password': ''}
+2020-04-03 20:35:22,288 INFO userName =  password = 
+2020-04-03 20:35:22,289 DEBUG msg : UserName missing
+2020-04-03 20:35:24,315 INFO request payload = {'userName': None, 'password': None}
+2020-04-03 20:35:24,315 INFO userName = None password = None
+2020-04-03 20:35:24,315 DEBUG msg : UserName missing
+2020-04-03 20:35:26,339 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-03 20:35:26,339 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-03 20:35:28,351 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-03 20:35:28,352 INFO userName = spencer password = 12343243243243ssss56
+2020-04-06 12:20:34,266 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-06 12:20:34,364 INFO userName = Kelly Ren password = 123456
+2020-04-06 12:20:34,391 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-06 12:20:34,391 DEBUG msg : User exist
+2020-04-06 12:20:36,417 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-06 12:20:36,417 INFO userName = spencer password = 123456
+2020-04-06 12:20:36,432 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-06 12:20:36,432 DEBUG msg : User exist
+2020-04-06 12:20:38,452 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-06 12:20:38,452 INFO userName =  password = 123456
+2020-04-06 12:20:38,453 DEBUG msg : UserName missing
+2020-04-06 12:20:40,473 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-06 12:20:40,473 INFO userName = spencer password = 
+2020-04-06 12:20:40,474 DEBUG msg : Password missing
+2020-04-06 12:20:42,493 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-06 12:20:42,493 INFO userName = None password = 123456
+2020-04-06 12:20:42,494 DEBUG msg : UserName missing
+2020-04-06 12:20:44,520 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-06 12:20:44,521 INFO userName = spencer password = None
+2020-04-06 12:20:44,521 DEBUG msg : Password missing
+2020-04-06 12:20:46,538 INFO request payload = {'userName': '', 'password': ''}
+2020-04-06 12:20:46,539 INFO userName =  password = 
+2020-04-06 12:20:46,539 DEBUG msg : UserName missing
+2020-04-06 12:20:48,559 INFO request payload = {'userName': None, 'password': None}
+2020-04-06 12:20:48,559 INFO userName = None password = None
+2020-04-06 12:20:48,560 DEBUG msg : UserName missing
+2020-04-06 12:20:50,583 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-06 12:20:50,584 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-06 12:20:52,604 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-06 12:20:52,604 INFO userName = spencer password = 12343243243243ssss56
+2020-04-06 12:26:05,881 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-06 12:26:05,882 INFO userName = Kelly Ren password = 123456
+2020-04-06 12:26:05,895 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-06 12:26:05,896 DEBUG msg : User exist
+2020-04-06 12:26:07,926 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-06 12:26:07,927 INFO userName = spencer password = 123456
+2020-04-06 12:26:07,948 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-06 12:26:07,949 DEBUG msg : User exist
+2020-04-06 12:26:09,973 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-06 12:26:09,974 INFO userName =  password = 123456
+2020-04-06 12:26:09,974 DEBUG msg : UserName missing
+2020-04-06 12:26:12,006 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-06 12:26:12,006 INFO userName = spencer password = 
+2020-04-06 12:26:12,007 DEBUG msg : Password missing
+2020-04-06 12:26:14,025 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-06 12:26:14,025 INFO userName = None password = 123456
+2020-04-06 12:26:14,025 DEBUG msg : UserName missing
+2020-04-06 12:26:16,041 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-06 12:26:16,041 INFO userName = spencer password = None
+2020-04-06 12:26:16,042 DEBUG msg : Password missing
+2020-04-06 12:26:18,060 INFO request payload = {'userName': '', 'password': ''}
+2020-04-06 12:26:18,060 INFO userName =  password = 
+2020-04-06 12:26:18,061 DEBUG msg : UserName missing
+2020-04-06 12:26:20,081 INFO request payload = {'userName': None, 'password': None}
+2020-04-06 12:26:20,081 INFO userName = None password = None
+2020-04-06 12:26:20,082 DEBUG msg : UserName missing
+2020-04-06 12:26:22,099 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-06 12:26:22,100 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-06 12:26:24,118 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-06 12:26:24,119 INFO userName = spencer password = 12343243243243ssss56
+2020-04-06 12:33:08,114 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-06 12:33:08,115 INFO userName = Kelly Ren password = 123456
+2020-04-06 12:33:08,129 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-06 12:33:08,129 DEBUG msg : User exist
+2020-04-06 12:33:10,162 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-06 12:33:10,162 INFO userName = spencer password = 123456
+2020-04-06 12:33:10,179 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-06 12:33:10,179 DEBUG msg : User exist
+2020-04-06 12:33:12,204 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-06 12:33:12,204 INFO userName =  password = 123456
+2020-04-06 12:33:12,205 DEBUG msg : UserName missing
+2020-04-06 12:33:14,226 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-06 12:33:14,226 INFO userName = spencer password = 
+2020-04-06 12:33:14,227 DEBUG msg : Password missing
+2020-04-06 12:33:16,248 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-06 12:33:16,248 INFO userName = None password = 123456
+2020-04-06 12:33:16,249 DEBUG msg : UserName missing
+2020-04-06 12:33:18,268 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-06 12:33:18,268 INFO userName = spencer password = None
+2020-04-06 12:33:18,269 DEBUG msg : Password missing
+2020-04-06 12:33:20,412 INFO request payload = {'userName': '', 'password': ''}
+2020-04-06 12:33:20,412 INFO userName =  password = 
+2020-04-06 12:33:20,412 DEBUG msg : UserName missing
+2020-04-06 12:33:22,433 INFO request payload = {'userName': None, 'password': None}
+2020-04-06 12:33:22,433 INFO userName = None password = None
+2020-04-06 12:33:22,433 DEBUG msg : UserName missing
+2020-04-06 12:33:24,458 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-06 12:33:24,459 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-06 12:33:26,478 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-06 12:33:26,478 INFO userName = spencer password = 12343243243243ssss56
+2020-04-06 12:38:51,758 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-06 12:38:51,758 INFO userName = Kelly Ren password = 123456
+2020-04-06 12:38:51,777 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-06 12:38:51,777 DEBUG msg : User exist
+2020-04-06 12:38:53,912 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-06 12:38:53,912 INFO userName = spencer password = 123456
+2020-04-06 12:38:53,926 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-06 12:38:53,927 DEBUG msg : User exist
+2020-04-06 12:38:55,945 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-06 12:38:55,945 INFO userName =  password = 123456
+2020-04-06 12:38:55,946 DEBUG msg : UserName missing
+2020-04-06 12:38:57,965 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-06 12:38:57,965 INFO userName = spencer password = 
+2020-04-06 12:38:57,965 DEBUG msg : Password missing
+2020-04-06 12:38:59,985 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-06 12:38:59,985 INFO userName = None password = 123456
+2020-04-06 12:38:59,986 DEBUG msg : UserName missing
+2020-04-06 12:39:02,008 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-06 12:39:02,009 INFO userName = spencer password = None
+2020-04-06 12:39:02,009 DEBUG msg : Password missing
+2020-04-06 12:39:04,027 INFO request payload = {'userName': '', 'password': ''}
+2020-04-06 12:39:04,027 INFO userName =  password = 
+2020-04-06 12:39:04,027 DEBUG msg : UserName missing
+2020-04-06 12:39:06,047 INFO request payload = {'userName': None, 'password': None}
+2020-04-06 12:39:06,047 INFO userName = None password = None
+2020-04-06 12:39:06,048 DEBUG msg : UserName missing
+2020-04-06 12:39:08,070 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-06 12:39:08,070 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-06 12:39:10,094 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-06 12:39:10,094 INFO userName = spencer password = 12343243243243ssss56
+2020-04-06 12:42:20,873 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-06 12:42:20,873 INFO userName = Kelly Ren password = 123456
+2020-04-06 12:42:20,889 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-06 12:42:20,889 DEBUG msg : User exist
+2020-04-06 12:42:23,034 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-06 12:42:23,035 INFO userName = spencer password = 123456
+2020-04-06 12:42:23,049 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-06 12:42:23,049 DEBUG msg : User exist
+2020-04-06 12:42:25,067 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-06 12:42:25,067 INFO userName =  password = 123456
+2020-04-06 12:42:25,068 DEBUG msg : UserName missing
+2020-04-06 12:42:27,087 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-06 12:42:27,087 INFO userName = spencer password = 
+2020-04-06 12:42:27,087 DEBUG msg : Password missing
+2020-04-06 12:42:29,109 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-06 12:42:29,109 INFO userName = None password = 123456
+2020-04-06 12:42:29,110 DEBUG msg : UserName missing
+2020-04-06 12:42:31,129 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-06 12:42:31,130 INFO userName = spencer password = None
+2020-04-06 12:42:31,130 DEBUG msg : Password missing
+2020-04-06 12:42:33,148 INFO request payload = {'userName': '', 'password': ''}
+2020-04-06 12:42:33,148 INFO userName =  password = 
+2020-04-06 12:42:33,148 DEBUG msg : UserName missing
+2020-04-06 12:42:35,163 INFO request payload = {'userName': None, 'password': None}
+2020-04-06 12:42:35,163 INFO userName = None password = None
+2020-04-06 12:42:35,164 DEBUG msg : UserName missing
+2020-04-06 12:42:37,185 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-06 12:42:37,185 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-06 12:42:39,205 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-06 12:42:39,206 INFO userName = spencer password = 12343243243243ssss56
+2020-04-06 12:47:36,758 INFO request payload = {'userName': 'Kelly Ren', 'password': '123456'}
+2020-04-06 12:47:36,758 INFO userName = Kelly Ren password = 123456
+2020-04-06 12:47:36,772 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-06 12:47:36,772 DEBUG msg : User exist
+2020-04-06 12:47:38,898 INFO request payload = {'userName': 'spencer', 'password': '123456'}
+2020-04-06 12:47:38,899 INFO userName = spencer password = 123456
+2020-04-06 12:47:38,915 INFO namelist(('spencer',), ('tony',), ('Alex zhao',), ('huang',), ('Zoe Ren',), ('Kelly Ren',))
+2020-04-06 12:47:38,916 DEBUG msg : User exist
+2020-04-06 12:47:40,935 INFO request payload = {'userName': '', 'password': '123456'}
+2020-04-06 12:47:40,936 INFO userName =  password = 123456
+2020-04-06 12:47:40,936 DEBUG msg : UserName missing
+2020-04-06 12:47:42,955 INFO request payload = {'userName': 'spencer', 'password': ''}
+2020-04-06 12:47:42,955 INFO userName = spencer password = 
+2020-04-06 12:47:42,956 DEBUG msg : Password missing
+2020-04-06 12:47:44,977 INFO request payload = {'userName': None, 'password': '123456'}
+2020-04-06 12:47:44,978 INFO userName = None password = 123456
+2020-04-06 12:47:44,978 DEBUG msg : UserName missing
+2020-04-06 12:47:47,006 INFO request payload = {'userName': 'spencer', 'password': None}
+2020-04-06 12:47:47,007 INFO userName = spencer password = None
+2020-04-06 12:47:47,007 DEBUG msg : Password missing
+2020-04-06 12:47:49,030 INFO request payload = {'userName': '', 'password': ''}
+2020-04-06 12:47:49,030 INFO userName =  password = 
+2020-04-06 12:47:49,031 DEBUG msg : UserName missing
+2020-04-06 12:47:51,054 INFO request payload = {'userName': None, 'password': None}
+2020-04-06 12:47:51,054 INFO userName = None password = None
+2020-04-06 12:47:51,055 DEBUG msg : UserName missing
+2020-04-06 12:47:53,075 INFO request payload = {'userName': 'spenwrwrwerwrerwweecer', 'password': '123456'}
+2020-04-06 12:47:53,075 INFO userName = spenwrwrwerwrerwweecer password = 123456
+2020-04-06 12:47:55,098 INFO request payload = {'userName': 'spencer', 'password': '12343243243243ssss56'}
+2020-04-06 12:47:55,098 INFO userName = spencer password = 12343243243243ssss56

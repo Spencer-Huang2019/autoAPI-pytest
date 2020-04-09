@@ -1,0 +1,102 @@
+{
+  "uid" : "482bbef8a8ab7367",
+  "name" : "test_login[9.0-userName=\"\" & password = \"\"-http://localhost:8899/spencer/api/login-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"\",\"password\":\"\"}-{\"status\":\"fail\",\"errorCode\":2,\"msg\":\"UserName missing\"}]",
+  "fullName" : "case.test_Login.Test_Login#test_login",
+  "historyId" : "f376c52e61502261ef75b2833a2b2d72",
+  "time" : {
+    "start" : 1586148450705,
+    "stop" : 1586148452721,
+    "duration" : 2016
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "10f8b36ae0a2fa3c",
+      "name" : "Response",
+      "source" : "10f8b36ae0a2fa3c.attach",
+      "type" : "text/plain",
+      "size" : 61
+    }, {
+      "uid" : "d2d4bcd647dffa5b",
+      "name" : "log",
+      "source" : "d2d4bcd647dffa5b.txt",
+      "type" : "text/plain",
+      "size" : 494
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Test login api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_Login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KAVVNMT"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "desc",
+    "value" : "'userName=\"\" & password = \"\"'"
+  }, {
+    "name" : "expected",
+    "value" : "'{\"status\":\"fail\",\"errorCode\":2,\"msg\":\"UserName missing\"}'"
+  }, {
+    "name" : "headers",
+    "value" : "'{\"content-type\":\"application/json\"}'"
+  }, {
+    "name" : "id",
+    "value" : "9.0"
+  }, {
+    "name" : "method",
+    "value" : "'POST'"
+  }, {
+    "name" : "payload",
+    "value" : "'{\"userName\":\"\",\"password\":\"\"}'"
+  }, {
+    "name" : "url",
+    "value" : "'http://localhost:8899/spencer/api/login'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "482bbef8a8ab7367.json",
+  "parameterValues" : [ "'userName=\"\" & password = \"\"'", "'{\"status\":\"fail\",\"errorCode\":2,\"msg\":\"UserName missing\"}'", "'{\"content-type\":\"application/json\"}'", "9.0", "'POST'", "'{\"userName\":\"\",\"password\":\"\"}'", "'http://localhost:8899/spencer/api/login'" ]
+}

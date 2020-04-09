@@ -1,0 +1,102 @@
+{
+  "uid" : "e0d47d7d427582f",
+  "name" : "test_login[1.0-success to register-http://localhost:8899/spencer/api/login-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spencer\",\"password\":\"123456\"}-{\"status\":\"success\",\"errorCode\":0,\"msg\":\"Succeed to login\"}]",
+  "fullName" : "case.test_Login.Test_Login#test_login",
+  "historyId" : "8b1f7c2a71e704a2aefaf543530971a9",
+  "time" : {
+    "start" : 1586148434441,
+    "stop" : 1586148436483,
+    "duration" : 2042
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "450b7c18c066e113",
+      "name" : "Response",
+      "source" : "450b7c18c066e113.attach",
+      "type" : "text/plain",
+      "size" : 64
+    }, {
+      "uid" : "da3e7a99f0024642",
+      "name" : "log",
+      "source" : "da3e7a99f0024642.txt",
+      "type" : "text/plain",
+      "size" : 250
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Test login api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_Login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KAVVNMT"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "desc",
+    "value" : "'success to register'"
+  }, {
+    "name" : "expected",
+    "value" : "'{\"status\":\"success\",\"errorCode\":0,\"msg\":\"Succeed to login\"}'"
+  }, {
+    "name" : "headers",
+    "value" : "'{\"content-type\":\"application/json\"}'"
+  }, {
+    "name" : "id",
+    "value" : "1.0"
+  }, {
+    "name" : "method",
+    "value" : "'POST'"
+  }, {
+    "name" : "payload",
+    "value" : "'{\"userName\":\"spencer\",\"password\":\"123456\"}'"
+  }, {
+    "name" : "url",
+    "value" : "'http://localhost:8899/spencer/api/login'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0d47d7d427582f.json",
+  "parameterValues" : [ "'success to register'", "'{\"status\":\"success\",\"errorCode\":0,\"msg\":\"Succeed to login\"}'", "'{\"content-type\":\"application/json\"}'", "1.0", "'POST'", "'{\"userName\":\"spencer\",\"password\":\"123456\"}'", "'http://localhost:8899/spencer/api/login'" ]
+}

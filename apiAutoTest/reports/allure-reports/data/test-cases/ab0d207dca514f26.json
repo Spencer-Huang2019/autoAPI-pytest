@@ -1,0 +1,110 @@
+{
+  "uid" : "ab0d207dca514f26",
+  "name" : "test[1.0-success to register-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"Kelly Ren\",\"password\":\"123456\"}-{\"status\":\"success\",\"errorCode\":0,\"msg\":\"Succeed to register\"}]",
+  "fullName" : "case.test_Reg.TestRegister#test",
+  "historyId" : "b7a6c86b2debf43a8c0966bd21af3707",
+  "time" : {
+    "start" : 1586148454751,
+    "stop" : 1586148456776,
+    "duration" : 2025
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError",
+  "statusTrace" : "self = <apiAutoTest.case.test_Reg.TestRegister object at 0x03A50D90>, id = 1.0, desc = 'success to register', url = 'http://localhost:8899/spencer/api/register', method = 'POST'\nheaders = '{\"content-type\":\"application/json\"}', payload = '{\"userName\":\"Kelly Ren\",\"password\":\"123456\"}', expected = '{\"status\":\"success\",\"errorCode\":0,\"msg\":\"Succeed to register\"}'\n\n    @pytest.mark.parametrize(\"id, desc, url, method, headers, payload, expected\", getObj.data())\n    def test(self, id, desc, url, method, headers, payload, expected):\n        res = BusApi(id, desc, url, method, headers, payload, expected, \"register\")\n        allure.attach(\"{0}\".format(res.response()), \"Response\")\n>       res.assertion()\n\ncase\\test_Reg.py:19: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <apiAutoTest.api.baseApi.BusApi object at 0x03ADD808>\n\n    def assertion(self):\n        logger = self.logger()\n        expected_payload = json.loads(self.expected)\n        statusCode = self.res.status_code\n    \n        if statusCode == 200:\n            res_payload = self.res.json()\n            logger.msg(\"TC%d %s: statusCode: %d resBody:%s\" % (self.id,self.desc,statusCode,res_payload), \"info\")\n            for item in expected_payload.keys():\n>               assert (res_payload[item] == expected_payload[item])\nE               AssertionError\n\napi\\baseApi.py:78: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError",
+    "statusTrace" : "self = <apiAutoTest.case.test_Reg.TestRegister object at 0x03A50D90>, id = 1.0, desc = 'success to register', url = 'http://localhost:8899/spencer/api/register', method = 'POST'\nheaders = '{\"content-type\":\"application/json\"}', payload = '{\"userName\":\"Kelly Ren\",\"password\":\"123456\"}', expected = '{\"status\":\"success\",\"errorCode\":0,\"msg\":\"Succeed to register\"}'\n\n    @pytest.mark.parametrize(\"id, desc, url, method, headers, payload, expected\", getObj.data())\n    def test(self, id, desc, url, method, headers, payload, expected):\n        res = BusApi(id, desc, url, method, headers, payload, expected, \"register\")\n        allure.attach(\"{0}\".format(res.response()), \"Response\")\n>       res.assertion()\n\ncase\\test_Reg.py:19: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <apiAutoTest.api.baseApi.BusApi object at 0x03ADD808>\n\n    def assertion(self):\n        logger = self.logger()\n        expected_payload = json.loads(self.expected)\n        statusCode = self.res.status_code\n    \n        if statusCode == 200:\n            res_payload = self.res.json()\n            logger.msg(\"TC%d %s: statusCode: %d resBody:%s\" % (self.id,self.desc,statusCode,res_payload), \"info\")\n            for item in expected_payload.keys():\n>               assert (res_payload[item] == expected_payload[item])\nE               AssertionError\n\napi\\baseApi.py:78: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "55c17d2a3fba7124",
+      "name" : "Response",
+      "source" : "55c17d2a3fba7124.attach",
+      "type" : "text/plain",
+      "size" : 55
+    }, {
+      "uid" : "3d8211dc7e4ee50f",
+      "name" : "log",
+      "source" : "3d8211dc7e4ee50f.txt",
+      "type" : "text/plain",
+      "size" : 486
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Test register api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_Reg"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KAVVNMT"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_Reg"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "desc",
+    "value" : "'success to register'"
+  }, {
+    "name" : "expected",
+    "value" : "'{\"status\":\"success\",\"errorCode\":0,\"msg\":\"Succeed to register\"}'"
+  }, {
+    "name" : "headers",
+    "value" : "'{\"content-type\":\"application/json\"}'"
+  }, {
+    "name" : "id",
+    "value" : "1.0"
+  }, {
+    "name" : "method",
+    "value" : "'POST'"
+  }, {
+    "name" : "payload",
+    "value" : "'{\"userName\":\"Kelly Ren\",\"password\":\"123456\"}'"
+  }, {
+    "name" : "url",
+    "value" : "'http://localhost:8899/spencer/api/register'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ab0d207dca514f26.json",
+  "parameterValues" : [ "'success to register'", "'{\"status\":\"success\",\"errorCode\":0,\"msg\":\"Succeed to register\"}'", "'{\"content-type\":\"application/json\"}'", "1.0", "'POST'", "'{\"userName\":\"Kelly Ren\",\"password\":\"123456\"}'", "'http://localhost:8899/spencer/api/register'" ]
+}

@@ -1,0 +1,102 @@
+{
+  "uid" : "af1eaeeafeecf4b0",
+  "name" : "test[10.0-length of password exceeds-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spencer\",\"password\":\"12343243243243ssss56\"}-{\"status\":\"fail\",\"errorCode\":5,\"msg\":\"Length of password exceeds\"}]",
+  "fullName" : "case.test_Reg.TestRegister#test",
+  "historyId" : "f6987e83bf8161c928d040595792ecd5",
+  "time" : {
+    "start" : 1586148473089,
+    "stop" : 1586148475102,
+    "duration" : 2013
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c4fa64562d271aae",
+      "name" : "Response",
+      "source" : "c4fa64562d271aae.attach",
+      "type" : "text/plain",
+      "size" : 71
+    }, {
+      "uid" : "6471b02d0847a8c4",
+      "name" : "log",
+      "source" : "6471b02d0847a8c4.txt",
+      "type" : "text/plain",
+      "size" : 510
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Test register api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_Reg"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KAVVNMT"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_Reg"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "desc",
+    "value" : "'length of password exceeds'"
+  }, {
+    "name" : "expected",
+    "value" : "'{\"status\":\"fail\",\"errorCode\":5,\"msg\":\"Length of password exceeds\"}'"
+  }, {
+    "name" : "headers",
+    "value" : "'{\"content-type\":\"application/json\"}'"
+  }, {
+    "name" : "id",
+    "value" : "10.0"
+  }, {
+    "name" : "method",
+    "value" : "'POST'"
+  }, {
+    "name" : "payload",
+    "value" : "'{\"userName\":\"spencer\",\"password\":\"12343243243243ssss56\"}'"
+  }, {
+    "name" : "url",
+    "value" : "'http://localhost:8899/spencer/api/register'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af1eaeeafeecf4b0.json",
+  "parameterValues" : [ "'length of password exceeds'", "'{\"status\":\"fail\",\"errorCode\":5,\"msg\":\"Length of password exceeds\"}'", "'{\"content-type\":\"application/json\"}'", "10.0", "'POST'", "'{\"userName\":\"spencer\",\"password\":\"12343243243243ssss56\"}'", "'http://localhost:8899/spencer/api/register'" ]
+}

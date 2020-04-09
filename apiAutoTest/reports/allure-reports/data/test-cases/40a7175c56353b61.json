@@ -1,0 +1,102 @@
+{
+  "uid" : "40a7175c56353b61",
+  "name" : "test[4.0-password=\"\"-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spencer\",\"password\":\"\"}-{\"status\":\"fail\",\"errorCode\":3,\"msg\":\"Password missing\"}]",
+  "fullName" : "case.test_Reg.TestRegister#test",
+  "historyId" : "dec3138efb42cc30f0158bb41deaf576",
+  "time" : {
+    "start" : 1586148460948,
+    "stop" : 1586148462959,
+    "duration" : 2011
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a92c2850a7fadb52",
+      "name" : "Response",
+      "source" : "a92c2850a7fadb52.attach",
+      "type" : "text/plain",
+      "size" : 61
+    }, {
+      "uid" : "749ccf7a73d62a97",
+      "name" : "log",
+      "source" : "749ccf7a73d62a97.txt",
+      "type" : "text/plain",
+      "size" : 484
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Test register api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_Reg"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KAVVNMT"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_Reg"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "desc",
+    "value" : "'password=\"\"'"
+  }, {
+    "name" : "expected",
+    "value" : "'{\"status\":\"fail\",\"errorCode\":3,\"msg\":\"Password missing\"}'"
+  }, {
+    "name" : "headers",
+    "value" : "'{\"content-type\":\"application/json\"}'"
+  }, {
+    "name" : "id",
+    "value" : "4.0"
+  }, {
+    "name" : "method",
+    "value" : "'POST'"
+  }, {
+    "name" : "payload",
+    "value" : "'{\"userName\":\"spencer\",\"password\":\"\"}'"
+  }, {
+    "name" : "url",
+    "value" : "'http://localhost:8899/spencer/api/register'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40a7175c56353b61.json",
+  "parameterValues" : [ "'password=\"\"'", "'{\"status\":\"fail\",\"errorCode\":3,\"msg\":\"Password missing\"}'", "'{\"content-type\":\"application/json\"}'", "4.0", "'POST'", "'{\"userName\":\"spencer\",\"password\":\"\"}'", "'http://localhost:8899/spencer/api/register'" ]
+}

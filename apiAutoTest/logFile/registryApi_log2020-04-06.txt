@@ -1,0 +1,120 @@
+2020-04-06 12:20:34,393 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:20:34,393 INFO TC1 success to register: statusCode: 200 resBody:{'errorCode': 1, 'msg': 'User exist', 'status': 'fail'}
+2020-04-06 12:20:36,434 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:20:36,435 INFO TC2 user exist: statusCode: 200 resBody:{'errorCode': 1, 'msg': 'User exist', 'status': 'fail'}
+2020-04-06 12:20:38,454 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:20:38,454 INFO TC3 userName="": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:20:40,475 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:20:40,476 INFO TC4 password="": statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-06 12:20:42,495 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:20:42,496 INFO TC5 userName=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:20:44,522 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:20:44,523 INFO TC6 password=NULL: statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-06 12:20:46,540 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:20:46,541 INFO TC7 userName="" & password = "": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:20:48,561 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:20:48,561 INFO TC8 userName=NULL & password=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:20:50,585 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:20:50,585 INFO TC9 length of userName exceeds: statusCode: 200 resBody:{'errorCode': 4, 'msg': 'Length of userName exceeds', 'status': 'fail'}
+2020-04-06 12:20:52,606 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:20:52,606 INFO TC10 length of password exceeds: statusCode: 200 resBody:{'errorCode': 5, 'msg': 'Length of password exceeds', 'status': 'fail'}
+2020-04-06 12:26:05,897 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:26:05,898 INFO TC1 success to register: statusCode: 200 resBody:{'errorCode': 1, 'msg': 'User exist', 'status': 'fail'}
+2020-04-06 12:26:07,951 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:26:07,951 INFO TC2 user exist: statusCode: 200 resBody:{'errorCode': 1, 'msg': 'User exist', 'status': 'fail'}
+2020-04-06 12:26:09,976 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:26:09,976 INFO TC3 userName="": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:26:12,008 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:26:12,008 INFO TC4 password="": statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-06 12:26:14,027 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:26:14,027 INFO TC5 userName=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:26:16,043 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:26:16,043 INFO TC6 password=NULL: statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-06 12:26:18,062 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:26:18,062 INFO TC7 userName="" & password = "": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:26:20,083 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:26:20,083 INFO TC8 userName=NULL & password=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:26:22,101 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:26:22,102 INFO TC9 length of userName exceeds: statusCode: 200 resBody:{'errorCode': 4, 'msg': 'Length of userName exceeds', 'status': 'fail'}
+2020-04-06 12:26:24,120 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:26:24,120 INFO TC10 length of password exceeds: statusCode: 200 resBody:{'errorCode': 5, 'msg': 'Length of password exceeds', 'status': 'fail'}
+2020-04-06 12:33:08,131 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:33:08,131 INFO TC1 success to register: statusCode: 200 resBody:{'errorCode': 1, 'msg': 'User exist', 'status': 'fail'}
+2020-04-06 12:33:10,181 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:33:10,181 INFO TC2 user exist: statusCode: 200 resBody:{'errorCode': 1, 'msg': 'User exist', 'status': 'fail'}
+2020-04-06 12:33:12,206 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:33:12,206 INFO TC3 userName="": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:33:14,228 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:33:14,229 INFO TC4 password="": statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-06 12:33:16,250 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:33:16,250 INFO TC5 userName=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:33:18,270 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:33:18,270 INFO TC6 password=NULL: statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-06 12:33:20,414 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:33:20,414 INFO TC7 userName="" & password = "": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:33:22,435 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:33:22,435 INFO TC8 userName=NULL & password=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:33:24,461 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:33:24,461 INFO TC9 length of userName exceeds: statusCode: 200 resBody:{'errorCode': 4, 'msg': 'Length of userName exceeds', 'status': 'fail'}
+2020-04-06 12:33:26,479 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:33:26,480 INFO TC10 length of password exceeds: statusCode: 200 resBody:{'errorCode': 5, 'msg': 'Length of password exceeds', 'status': 'fail'}
+2020-04-06 12:38:51,779 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:38:51,779 INFO TC1 success to register: statusCode: 200 resBody:{'errorCode': 1, 'msg': 'User exist', 'status': 'fail'}
+2020-04-06 12:38:53,929 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:38:53,929 INFO TC2 user exist: statusCode: 200 resBody:{'errorCode': 1, 'msg': 'User exist', 'status': 'fail'}
+2020-04-06 12:38:55,947 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:38:55,947 INFO TC3 userName="": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:38:57,967 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:38:57,967 INFO TC4 password="": statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-06 12:38:59,987 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:38:59,987 INFO TC5 userName=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:39:02,011 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:39:02,011 INFO TC6 password=NULL: statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-06 12:39:04,029 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:39:04,029 INFO TC7 userName="" & password = "": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:39:06,049 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:39:06,049 INFO TC8 userName=NULL & password=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:39:08,072 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:39:08,072 INFO TC9 length of userName exceeds: statusCode: 200 resBody:{'errorCode': 4, 'msg': 'Length of userName exceeds', 'status': 'fail'}
+2020-04-06 12:39:10,096 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:39:10,096 INFO TC10 length of password exceeds: statusCode: 200 resBody:{'errorCode': 5, 'msg': 'Length of password exceeds', 'status': 'fail'}
+2020-04-06 12:42:20,891 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:42:20,891 INFO TC1 success to register: statusCode: 200 resBody:{'errorCode': 1, 'msg': 'User exist', 'status': 'fail'}
+2020-04-06 12:42:23,050 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:42:23,051 INFO TC2 user exist: statusCode: 200 resBody:{'errorCode': 1, 'msg': 'User exist', 'status': 'fail'}
+2020-04-06 12:42:25,069 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:42:25,069 INFO TC3 userName="": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:42:27,089 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:42:27,089 INFO TC4 password="": statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-06 12:42:29,111 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:42:29,111 INFO TC5 userName=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:42:31,132 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:42:31,132 INFO TC6 password=NULL: statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-06 12:42:33,150 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:42:33,150 INFO TC7 userName="" & password = "": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:42:35,165 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:42:35,165 INFO TC8 userName=NULL & password=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:42:37,187 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:42:37,187 INFO TC9 length of userName exceeds: statusCode: 200 resBody:{'errorCode': 4, 'msg': 'Length of userName exceeds', 'status': 'fail'}
+2020-04-06 12:42:39,207 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:42:39,207 INFO TC10 length of password exceeds: statusCode: 200 resBody:{'errorCode': 5, 'msg': 'Length of password exceeds', 'status': 'fail'}
+2020-04-06 12:47:36,774 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:47:36,775 INFO TC1 success to register: statusCode: 200 resBody:{'errorCode': 1, 'msg': 'User exist', 'status': 'fail'}
+2020-04-06 12:47:38,917 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:47:38,918 INFO TC2 user exist: statusCode: 200 resBody:{'errorCode': 1, 'msg': 'User exist', 'status': 'fail'}
+2020-04-06 12:47:40,937 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:47:40,938 INFO TC3 userName="": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:47:42,957 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:47:42,959 INFO TC4 password="": statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-06 12:47:44,979 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:47:44,980 INFO TC5 userName=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:47:47,009 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:47:47,010 INFO TC6 password=NULL: statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-06 12:47:49,032 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:47:49,033 INFO TC7 userName="" & password = "": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:47:51,056 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:47:51,057 INFO TC8 userName=NULL & password=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-06 12:47:53,077 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:47:53,078 INFO TC9 length of userName exceeds: statusCode: 200 resBody:{'errorCode': 4, 'msg': 'Length of userName exceeds', 'status': 'fail'}
+2020-04-06 12:47:55,100 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-06 12:47:55,101 INFO TC10 length of password exceeds: statusCode: 200 resBody:{'errorCode': 5, 'msg': 'Length of password exceeds', 'status': 'fail'}

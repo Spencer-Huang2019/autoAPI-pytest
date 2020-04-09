@@ -1,0 +1,102 @@
+{
+  "uid" : "db727c7a48e5048e",
+  "name" : "test[9.0-length of userName exceeds-http://localhost:8899/spencer/api/register-POST-{\"content-type\":\"application/json\"}-{\"userName\":\"spenwrwrwerwrerwweecer\",\"password\":\"123456\"}-{\"status\":\"fail\",\"errorCode\":4,\"msg\":\"Length of userName exceeds\"}]",
+  "fullName" : "case.test_Reg.TestRegister#test",
+  "historyId" : "056ec4beafa9cff03f5659dae6b7facc",
+  "time" : {
+    "start" : 1586148471067,
+    "stop" : 1586148473078,
+    "duration" : 2011
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a498c3dbf5d1794e",
+      "name" : "Response",
+      "source" : "a498c3dbf5d1794e.attach",
+      "type" : "text/plain",
+      "size" : 71
+    }, {
+      "uid" : "ec07b2b755d4ce97",
+      "name" : "log",
+      "source" : "ec07b2b755d4ce97.txt",
+      "type" : "text/plain",
+      "size" : 509
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Test register api"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_Reg"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KAVVNMT"
+  }, {
+    "name" : "thread",
+    "value" : "8204-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_Reg"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "desc",
+    "value" : "'length of userName exceeds'"
+  }, {
+    "name" : "expected",
+    "value" : "'{\"status\":\"fail\",\"errorCode\":4,\"msg\":\"Length of userName exceeds\"}'"
+  }, {
+    "name" : "headers",
+    "value" : "'{\"content-type\":\"application/json\"}'"
+  }, {
+    "name" : "id",
+    "value" : "9.0"
+  }, {
+    "name" : "method",
+    "value" : "'POST'"
+  }, {
+    "name" : "payload",
+    "value" : "'{\"userName\":\"spenwrwrwerwrerwweecer\",\"password\":\"123456\"}'"
+  }, {
+    "name" : "url",
+    "value" : "'http://localhost:8899/spencer/api/register'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db727c7a48e5048e.json",
+  "parameterValues" : [ "'length of userName exceeds'", "'{\"status\":\"fail\",\"errorCode\":4,\"msg\":\"Length of userName exceeds\"}'", "'{\"content-type\":\"application/json\"}'", "9.0", "'POST'", "'{\"userName\":\"spenwrwrwerwrerwweecer\",\"password\":\"123456\"}'", "'http://localhost:8899/spencer/api/register'" ]
+}
