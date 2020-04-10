@@ -1,7 +1,7 @@
 from flask import Flask, request, make_response
 import json
-from mockAPI.dbUtils import database
-from mockAPI.logUtils import log
+from dbUtils import database
+from logUtils import log
 
 logger = log("./logFile/mockAPI_log.txt")
 
