@@ -1,0 +1,32 @@
+2020-04-10 15:09:47,880 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:09:52,050 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:09:56,120 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:10:00,191 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:10:02,243 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:10:02,244 INFO TC5 userName="": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:10:04,265 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:10:04,265 INFO TC6 password="": statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-10 15:10:06,289 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:10:06,290 INFO TC7 userName=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:10:08,311 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:10:08,312 INFO TC8 password=NULL: statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-10 15:10:10,333 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:10:10,334 INFO TC9 userName="" & password = "": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:10:12,351 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:10:12,352 INFO TC10 userName=NULL & password=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:28:32,795 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:28:34,921 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:28:36,994 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:28:39,065 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:28:41,114 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:28:41,115 INFO TC5 userName="": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:28:43,135 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:28:43,136 INFO TC6 password="": statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-10 15:28:45,157 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:28:45,158 INFO TC7 userName=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:28:47,206 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:28:47,206 INFO TC8 password=NULL: statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-10 15:28:49,224 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:28:49,225 INFO TC9 userName="" & password = "": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:28:51,243 INFO Request url:http://localhost:8899/spencer/api/login SUCCESS!
+2020-04-10 15:28:51,244 INFO TC10 userName=NULL & password=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}

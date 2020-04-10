@@ -1,0 +1,4 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:221 Starting new HTTP connection (1): localhost:8899
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:428 http://localhost:8899 "POST /spencer/api/login HTTP/1.1" 200 72
+[32mINFO    [0m root:logUtils.py:22 Request url:http://localhost:8899/spencer/api/login SUCCESS!
+[32mINFO    [0m root:logUtils.py:22 TC10 userName=NULL & password=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}

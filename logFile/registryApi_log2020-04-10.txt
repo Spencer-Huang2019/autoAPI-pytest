@@ -1,0 +1,36 @@
+2020-04-10 15:10:16,400 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:10:20,472 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:10:22,534 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:10:22,540 INFO TC3 userName="": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:10:24,571 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:10:24,571 INFO TC4 password="": statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-10 15:10:26,592 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:10:26,594 INFO TC5 userName=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:10:28,629 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:10:28,633 INFO TC6 password=NULL: statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-10 15:10:30,661 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:10:30,662 INFO TC7 userName="" & password = "": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:10:32,683 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:10:32,684 INFO TC8 userName=NULL & password=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:10:34,704 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:10:34,705 INFO TC9 length of userName exceeds: statusCode: 200 resBody:{'errorCode': 4, 'msg': 'Length of userName exceeds', 'status': 'fail'}
+2020-04-10 15:10:36,725 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:10:36,726 INFO TC10 length of password exceeds: statusCode: 200 resBody:{'errorCode': 5, 'msg': 'Length of password exceeds', 'status': 'fail'}
+2020-04-10 15:28:53,292 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:28:55,363 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:28:57,414 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:28:57,417 INFO TC3 userName="": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:28:59,440 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:28:59,441 INFO TC4 password="": statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-10 15:29:01,461 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:29:01,462 INFO TC5 userName=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:29:03,485 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:29:03,486 INFO TC6 password=NULL: statusCode: 200 resBody:{'errorCode': 3, 'msg': 'Password missing', 'status': 'fail'}
+2020-04-10 15:29:05,533 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:29:05,534 INFO TC7 userName="" & password = "": statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:29:07,560 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:29:07,561 INFO TC8 userName=NULL & password=NULL: statusCode: 200 resBody:{'errorCode': 2, 'msg': 'UserName missing', 'status': 'fail'}
+2020-04-10 15:29:09,580 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:29:09,581 INFO TC9 length of userName exceeds: statusCode: 200 resBody:{'errorCode': 4, 'msg': 'Length of userName exceeds', 'status': 'fail'}
+2020-04-10 15:29:11,598 INFO Request url:http://localhost:8899/spencer/api/register SUCCESS!
+2020-04-10 15:29:11,599 INFO TC10 length of password exceeds: statusCode: 200 resBody:{'errorCode': 5, 'msg': 'Length of password exceeds', 'status': 'fail'}
