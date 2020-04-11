@@ -1,1 +1,1 @@
-allure generate ./reports/allure-results -o ./reports/allure-reports --clean
+allure generate ./reports/allure-results -o ./reports/allure-report --clean
